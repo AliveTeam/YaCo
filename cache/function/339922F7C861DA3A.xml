@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>339922F7C861DA3A</id>
+    <version>
+      <size>0x0000000000000127</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41F0A0</address>
+      <proto>BaseAliveGameObject *__thiscall sub(DoorBlocker *this, int a2, int a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">7ABF4A09</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">28FE318AB93705BA</xref>
+        <xref offset="0x0000000000000000" size="0x00000000000000BB">CF8C409FF1CC1496</xref>
+        <xref offset="0x00000000000000BB" size="0x0000000000000003">B40388DED566BA63</xref>
+        <xref offset="0x00000000000000BE" size="0x000000000000001B">0E682DC35F3BAE10</xref>
+        <xref offset="0x00000000000000D9" size="0x0000000000000019">560F7F4BA54A6DA9</xref>
+        <xref offset="0x00000000000000F2" size="0x0000000000000014">E46A050C42C37FDE</xref>
+        <xref offset="0x0000000000000106" size="0x0000000000000004">E2963B4AAEF517A5</xref>
+        <xref offset="0x000000000000010A" size="0x000000000000001D">CC88006681A2F4F9</xref>
+        <xref offset="0x000000000011F630" size="0x0000000000000008">4C8680C6784E0FB9</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

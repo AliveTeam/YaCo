@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>937C480468B80383</id>
+    <version>
+      <size>0x0000000000000062</size>
+      <parent_id>3C2E2296257F4C25</parent_id>
+      <address>49887E</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">A532FB2A</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">volume</comments>
+        <comments offset="000000000000000E" type="nonrepeatable_comment">sfxIdx</comments>
+        <comments offset="0000000000000018" type="nonrepeatable_comment">max</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">min</comments>
+        <comments offset="000000000000003E" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000045" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000046" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000003" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000027" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000010">D188BE47E129BF3B</xref>
+        <xref offset="0x0000000000000022">99AB010BE8FEE790</xref>
+        <xref offset="0x0000000000000027">278A99732A3FE00C</xref>
+        <xref offset="0x0000000000000048">A614EFFDAADB3A62</xref>
+        <xref offset="0x0000000000000062">A2471D82A4C3B73E</xref>
+        <xref offset="0x00000000000005FB">E8D831F71E9077B8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

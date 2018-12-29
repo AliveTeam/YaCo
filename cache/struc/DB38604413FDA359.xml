@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>DB38604413FDA359</id>
+    <version>
+      <size>0x0000000000000100</size>
+      <address>1B5</address>
+      <userdefinedname>BirdPortal</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">5F3B2C8514E08546</xref>
+        <xref offset="0x0000000000000020">5C2A1C0DD972B069</xref>
+        <xref offset="0x0000000000000024">D04894F71D4F9308</xref>
+        <xref offset="0x0000000000000028">7035276BBA449285</xref>
+        <xref offset="0x000000000000002A">8B6F85F640B1E619</xref>
+        <xref offset="0x000000000000002C">042F4C275C5F7A2F</xref>
+        <xref offset="0x0000000000000030">187D8F0495049281</xref>
+        <xref offset="0x0000000000000034">B478D74392E0FBD9</xref>
+        <xref offset="0x0000000000000038">FE2168B800A372BD</xref>
+        <xref offset="0x000000000000003C">3CC71DE36E63CD9E</xref>
+        <xref offset="0x0000000000000040">3703FB85103F7EC7</xref>
+        <xref offset="0x0000000000000044">A2BEEAA6FB23E148</xref>
+        <xref offset="0x000000000000005C">A0809BB0F99075F9</xref>
+        <xref offset="0x0000000000000060">EB10B07DD0C229F7</xref>
+        <xref offset="0x0000000000000064">E19538EF22EB9599</xref>
+        <xref offset="0x0000000000000068">282C71B79A880FA4</xref>
+        <xref offset="0x000000000000006A">5463D6213813BF2E</xref>
+        <xref offset="0x000000000000006C">4C9B5BD68949F5AB</xref>
+        <xref offset="0x0000000000000070">EF26405DBD78C0B3</xref>
+        <xref offset="0x0000000000000074">D078EBF1D863C354</xref>
+        <xref offset="0x0000000000000078">5536E54EF07815D0</xref>
+        <xref offset="0x000000000000007C">8A06C762520DDDBB</xref>
+        <xref offset="0x0000000000000080">B415D2254B6BB839</xref>
+        <xref offset="0x0000000000000082">76AF8EC91084CECA</xref>
+        <xref offset="0x0000000000000084">A0F216ABBEAEA61D</xref>
+        <xref offset="0x0000000000000088">2CF242694232478F</xref>
+        <xref offset="0x000000000000008C">3D85E575768D9A6D</xref>
+        <xref offset="0x000000000000008E">D5FD0850580A3F2A</xref>
+        <xref offset="0x0000000000000090">963110D7831EFAB2</xref>
+        <xref offset="0x0000000000000094">33914B656C642784</xref>
+        <xref offset="0x0000000000000098">E7DA7366D0AD4D49</xref>
+        <xref offset="0x000000000000009C">4753A8A521B62A76</xref>
+        <xref offset="0x00000000000000A0">3F1F3785A2EC89DC</xref>
+        <xref offset="0x00000000000000A4">E19BCD5E9BF00428</xref>
+        <xref offset="0x00000000000000A8">10C2C45A8B419CA0</xref>
+        <xref offset="0x00000000000000AC">F413F0BFF887F0F6</xref>
+        <xref offset="0x00000000000000B0">F50B8C2A154DD19B</xref>
+        <xref offset="0x00000000000000B4">38B66F754657C984</xref>
+        <xref offset="0x00000000000000B8">E4F6AEAF48D71F42</xref>
+        <xref offset="0x00000000000000BC">36FBB1B97F6C09AE</xref>
+        <xref offset="0x00000000000000C0">FDB28747AF49770C</xref>
+        <xref offset="0x00000000000000C4">6AD169F8550E209C</xref>
+        <xref offset="0x00000000000000C8">EB11DB81FB6FFB9E</xref>
+        <xref offset="0x00000000000000CC">D1C8D17DC254EFB8</xref>
+        <xref offset="0x00000000000000D0">F539D53F6669F534</xref>
+        <xref offset="0x00000000000000D4">9EA5F1207D78BFEC</xref>
+        <xref offset="0x00000000000000D8">8617BADB18140C01</xref>
+        <xref offset="0x00000000000000DC">14CFB5BD764BC3FF</xref>
+        <xref offset="0x00000000000000E0">3A22BE9BC3A47475</xref>
+        <xref offset="0x00000000000000E4">53BF7E51BB95B907</xref>
+        <xref offset="0x00000000000000E8">24AC8BFD296BC1A0</xref>
+        <xref offset="0x00000000000000EC">A6F378B52194D961</xref>
+        <xref offset="0x00000000000000F0">C1FBB1881C39EDB7</xref>
+        <xref offset="0x00000000000000F4">3B58FBEE87C5F4CE</xref>
+        <xref offset="0x00000000000000F8">E24EA8229AAD0108</xref>
+        <xref offset="0x00000000000000FC">F79C9EEAB20D78A3</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

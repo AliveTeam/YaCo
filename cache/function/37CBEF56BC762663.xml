@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>37CBEF56BC762663</id>
+    <version>
+      <size>0x0000000000000088</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41F250</address>
+      <proto>void __thiscall sub(DoorBlocker *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">4F73A747</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">CE78022D4E1EDD8B</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">02E8E9383C040848</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000004">1F321A03C9CAA0B0</xref>
+        <xref offset="0x0000000000000015" size="0x0000000000000008">640E7119476B0499</xref>
+        <xref offset="0x000000000000001D" size="0x0000000000000009">8BD173F1E98914F2</xref>
+        <xref offset="0x0000000000000026" size="0x0000000000000014">260678CD11744B63</xref>
+        <xref offset="0x000000000000003A" size="0x0000000000000040">AA9A751DDD8C2129</xref>
+        <xref offset="0x000000000000007A" size="0x0000000000000006">25E59426AAAFFAF1</xref>
+        <xref offset="0x0000000000000080" size="0x0000000000000006">03231ED9D4398F15</xref>
+        <xref offset="0x0000000000000086" size="0x0000000000000002">B42B5561D57B74D0</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

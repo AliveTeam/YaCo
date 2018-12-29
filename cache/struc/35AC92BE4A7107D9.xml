@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>35AC92BE4A7107D9</id>
+    <version>
+      <size>0x0000000000000124</size>
+      <address>1B6</address>
+      <userdefinedname>DoorBlocker</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">4D133E429DEB885E</xref>
+        <xref offset="0x0000000000000116">8F13448E3A75EB3E</xref>
+        <xref offset="0x0000000000000118">DA27E13EB6A4FE94</xref>
+        <xref offset="0x000000000000011A">2F7D3A92423FE98D</xref>
+        <xref offset="0x000000000000011C">D5716CE95615C77D</xref>
+        <xref offset="0x0000000000000120">CF05FDB268311C1D</xref>
+        <xref offset="0x0000000000000122">D69FE7FBDAB9FBA1</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

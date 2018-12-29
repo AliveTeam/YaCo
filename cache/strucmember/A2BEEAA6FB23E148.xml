@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>A2BEEAA6FB23E148</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>DB38604413FDA359</parent_id>
+      <address>44</address>
+      <userdefinedname>field_44_dove_ids</userdefinedname>
+      <proto>int[6]</proto>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

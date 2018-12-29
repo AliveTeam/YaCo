@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>47F0040383535326</id>
+    <version>
+      <size>0x0000000000000100</size>
+      <address>1B3</address>
+      <userdefinedname>DeathBirdParticle</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">A0FFD3200C548526</xref>
+        <xref offset="0x00000000000000E4">22DF449A71D223AD</xref>
+        <xref offset="0x00000000000000E8">FB8589709472AA5F</xref>
+        <xref offset="0x00000000000000EC">35B2076FDFC70441</xref>
+        <xref offset="0x00000000000000F0">3409ADDFC48A12A3</xref>
+        <xref offset="0x00000000000000F4">685C5D26EBDBAEE7</xref>
+        <xref offset="0x00000000000000F5">1F7595819D48274D</xref>
+        <xref offset="0x00000000000000F8">122CD8010B0F2214</xref>
+        <xref offset="0x00000000000000FC">A2895E5900C17CF6</xref>
+        <xref offset="0x00000000000000FE">CC535EDACB83CD81</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

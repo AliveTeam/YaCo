@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>6585080B0BDAF811</id>
+    <version>
+      <size>0x0000000000000152</size>
+      <parent_id>E6B3CE382A0B99D8</parent_id>
+      <address>497B50</address>
+      <proto>void __thiscall sub(BirdPortal *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B6716CFF</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">7A1280C184E1F574</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000021">9B7AFD29E4945263</xref>
+        <xref offset="0x0000000000000021" size="0x000000000000001B">E2B7899FFF876092</xref>
+        <xref offset="0x000000000000003C" size="0x0000000000000020">ED38BBE51E41E12A</xref>
+        <xref offset="0x000000000000005C" size="0x0000000000000021">781B2315FBEFE687</xref>
+        <xref offset="0x000000000000007D" size="0x0000000000000026">1EADA3182EC2925A</xref>
+        <xref offset="0x00000000000000A3" size="0x0000000000000024">BCB9FE767BE44D81</xref>
+        <xref offset="0x00000000000000C7" size="0x0000000000000016">1AFF56B549DF4FA8</xref>
+        <xref offset="0x00000000000000DD" size="0x0000000000000007">067D0FCDCF024198</xref>
+        <xref offset="0x00000000000000E4" size="0x000000000000001D">91FB851B8F0120D8</xref>
+        <xref offset="0x0000000000000101" size="0x0000000000000036">32AAD05703D7104E</xref>
+        <xref offset="0x0000000000000137" size="0x0000000000000002">C800296E89F9BB99</xref>
+        <xref offset="0x0000000000000139" size="0x0000000000000006">42D64711C006CB8E</xref>
+        <xref offset="0x000000000000013F" size="0x0000000000000013">A85FDFBD57D57D23</xref>
+        <xref offset="0x00000000000A9290" size="0x000000000000000B">FB18C78B7E0837B2</xref>
+        <xref offset="0x00000000000A929B" size="0x000000000000000B">5E9FAF5C2E5F1C30</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

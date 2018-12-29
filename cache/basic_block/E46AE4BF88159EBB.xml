@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E46AE4BF88159EBB</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>3488F3F23750FE03</parent_id>
+      <address>41FA20</address>
+      <userdefinedname flags="0x00000054">Dove::sub_41FA20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D9584AFB</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000010" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000B" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000014">3EA1AC52118014AF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

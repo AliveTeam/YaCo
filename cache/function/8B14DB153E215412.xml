@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>8B14DB153E215412</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41F220</address>
+      <proto>DoorBlocker *__thiscall sub(DoorBlocker *this, char flags)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BC7AE39A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">C739DA571FA6E753</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000F">D462A01C2FE7AA43</xref>
+        <xref offset="0x000000000000000F" size="0x0000000000000009">CFEA0BEFBB4124E1</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000006">5470F11FA7B6D14C</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

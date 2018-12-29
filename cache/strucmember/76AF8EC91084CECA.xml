@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>76AF8EC91084CECA</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>DB38604413FDA359</parent_id>
+      <address>82</address>
+      <userdefinedname>field_82_portal_number_count</userdefinedname>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

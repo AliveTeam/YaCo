@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>EFDAB73BD7208C8F</id>
+    <version>
+      <size>0x0000000000000118</size>
+      <address>1B4</address>
+      <userdefinedname>Dove</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">9EFA50B78E9FA8BD</xref>
+        <xref offset="0x00000000000000E4">E4AE5CAB0DDBFE65</xref>
+        <xref offset="0x00000000000000E8">FF198A45B013520C</xref>
+        <xref offset="0x00000000000000EC">5259AEBF4CB37D58</xref>
+        <xref offset="0x00000000000000F0">53CCBB9DA494B5AB</xref>
+        <xref offset="0x00000000000000F4">5360AA599E64A8DF</xref>
+        <xref offset="0x00000000000000F6">E20FDEAB8D41C415</xref>
+        <xref offset="0x00000000000000F8">903D4DEDFDDF994D</xref>
+        <xref offset="0x00000000000000FC">EE256D6E166EF4EE</xref>
+        <xref offset="0x00000000000000FE">142ED866EF750239</xref>
+        <xref offset="0x0000000000000100">4B496591B44ED9F4</xref>
+        <xref offset="0x0000000000000104">F0E00AC1E206CF77</xref>
+        <xref offset="0x0000000000000108">4BFDA6881F583FB6</xref>
+        <xref offset="0x000000000000010C">98642C8B5D88ABA3</xref>
+        <xref offset="0x0000000000000110">3FECF0D2A0E1DCDC</xref>
+        <xref offset="0x0000000000000114">8E9CE933A715A7EB</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>02E8E9383C040848</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>37CBEF56BC762663</parent_id>
+      <address>41F250</address>
+      <userdefinedname flags="0x000000D4">DoorBlocker::vUpdate_41F250</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CEBD018E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">idx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">BDE9AC4141BD970D</xref>
+        <xref offset="0x0000000000000011">1F321A03C9CAA0B0</xref>
+        <xref offset="0x0000000000000015">640E7119476B0499</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9B7AFD29E4945263</id>
+    <version>
+      <size>0x0000000000000021</size>
+      <parent_id>6585080B0BDAF811</parent_id>
+      <address>497B50</address>
+      <userdefinedname flags="0x00000054">BirdPortal::sub_497B50</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">96E61A6A</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">578EB3D62FF0C56B</xref>
+        <xref offset="0x0000000000000021">E2B7899FFF876092</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

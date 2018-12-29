@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>1580CDF06A294207</id>
+    <version>
+      <size>0x000000000000002E</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41F940</address>
+      <proto>void __thiscall sub(Dove *this, int a2, int a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">ED43F9D1</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">DEBD5EEB4AC447F3</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000002E">A614EFFDAADB3A62</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

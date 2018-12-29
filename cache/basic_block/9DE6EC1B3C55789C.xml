@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9DE6EC1B3C55789C</id>
+    <version>
+      <size>0x00000000000000AB</size>
+      <parent_id>F66CA63F1102BCA7</parent_id>
+      <address>425A30</address>
+      <userdefinedname flags="0x00000054">EyeOrb::ctor_425A30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">DA1360D0</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000031" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000036" type="nonrepeatable_comment">type</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000063" type="nonrepeatable_comment">a7</comments>
+        <comments offset="0000000000000064" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000065" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000066" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000068" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000006D" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000072" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000000">stack</valueview>
+        <valueview offset="000000000000003D" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000041" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000079" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000097" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000023">65795E3054BF11B8</xref>
+        <xref offset="0x0000000000000041">3B4234465D706017</xref>
+        <xref offset="0x000000000000005E">C4D6DCB576403A50</xref>
+        <xref offset="0x0000000000000074">00F8887C410B743F</xref>
+        <xref offset="0x00000000000000AB">D365D06DCA1CFDA4</xref>
+        <xref offset="0x00000000000000C1">4EB71CFD14E2B666</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

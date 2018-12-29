@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D9ADAACC03997A5F</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>C05F9B1C263B7407</parent_id>
+      <address>40169A</address>
+      <userdefinedname flags="0x00000054">j_Math_Sine_496CD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">A37C8BE0F750A4A1</xref>
+        <xref offset="0x0000000000095636">A37C8BE0F750A4A1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

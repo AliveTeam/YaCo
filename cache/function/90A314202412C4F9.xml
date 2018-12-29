@@ -6,7 +6,7 @@
       <size>0x0000000000000075</size>
       <parent_id>B7AD2001E52C57D7</parent_id>
       <address>41F980</address>
-      <proto>void *__thiscall sub(Dove *this, int a2, int a3, char a4)</proto>
+      <proto>void *__thiscall sub(Dove *this, int a2, int a3, char ang)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">AEAE65C1</signature>

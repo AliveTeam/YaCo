@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>1F60E267ACB700A3</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>C0549E75AFC840F1</parent_id>
+      <address>18</address>
+      <userdefinedname>BaseAnimatedWithPhysicsGameObject__vOnCollisionWith_424EE0</userdefinedname>
+      <proto>void (__thiscall *)(BaseAnimatedWithPhysicsGameObject *this, PSX_Point xy, PSX_Point wh, DynamicArray *pObjList, int startingPointIdx, int (__thiscall *pFn)(_WORD *, _WORD *))</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>397F0880A1F1339E</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>C0549E75AFC840F1</parent_id>
+      <address>1C</address>
+      <userdefinedname>BaseAnimatedWithPhysicsGameObject__vGetBoundingRect_424FD0</userdefinedname>
+      <proto>PSX_RECT *(__fastcall *)(BaseAliveGameObject *this, PSX_RECT *pRect, int xpos)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

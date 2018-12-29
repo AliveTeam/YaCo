@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>502B758341A4C3D3</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>C0549E75AFC840F1</parent_id>
+      <address>28</address>
+      <userdefinedname>BaseAnimatedWithPhysicsGameObject__vIsFacingMe_4254A0</userdefinedname>
+      <proto>_BOOL2 (__thiscall *)(BaseAnimatedWithPhysicsGameObject *this, BaseAliveGameObject *a2)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

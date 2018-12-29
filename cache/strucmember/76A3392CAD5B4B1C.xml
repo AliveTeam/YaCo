@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>76A3392CAD5B4B1C</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>4ACA2FEA9A85F15B</parent_id>
+      <address>2C</address>
+      <userdefinedname>BaseAnimatedWithPhysicsGameObject__vOnSameYLevel_425520</userdefinedname>
+      <proto>signed __int16 (__thiscall *)(BaseAnimatedWithPhysicsGameObject *this, BaseAnimatedWithPhysicsGameObject *pOther)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>B53453575AF1354C</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>4ACA2FEA9A85F15B</parent_id>
+      <address>14</address>
+      <userdefinedname>TrapDoor__vGetSaveState_4DE050</userdefinedname>
+      <proto>signed int (__thiscall *)(TrapDoor *this, BYTE *a2)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

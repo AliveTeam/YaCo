@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>F99D340B7C2615E0</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>C0549E75AFC840F1</parent_id>
+      <userdefinedname>vTbl_Rock_546AF8</userdefinedname>
+      <proto>int (__thiscall *)(void *, char)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

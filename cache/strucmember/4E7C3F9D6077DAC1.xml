@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>4E7C3F9D6077DAC1</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>4ACA2FEA9A85F15B</parent_id>
+      <address>58</address>
+      <userdefinedname>BaseAliveGameObject__vsub_408FD0</userdefinedname>
+      <proto>BaseGameObject *(__thiscall *)(BaseAliveGameObject *this, __int16 a2)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

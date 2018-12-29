@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>21F93D5CFA8B0B3E</id>
+    <version>
+      <size>0x0000000000000068</size>
+      <parent_id>B9A81F3CAB93203F</parent_id>
+      <address>6</address>
+      <userdefinedname>VTrapDoor</userdefinedname>
+      <proto>TrapDoor_VTable</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">4ACA2FEA9A85F15B</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

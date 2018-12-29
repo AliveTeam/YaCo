@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C0549E75AFC840F1</id>
+    <version>
+      <size>0x0000000000000078</size>
+      <address>18F</address>
+      <userdefinedname>Rock_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F99D340B7C2615E0</xref>
+        <xref offset="0x0000000000000004">AF17CBFC11B02455</xref>
+        <xref offset="0x0000000000000008">98DDDF136E389B5D</xref>
+        <xref offset="0x000000000000000C">DAC4391F2FC8F841</xref>
+        <xref offset="0x0000000000000010">4769C2E321AD3BAD</xref>
+        <xref offset="0x0000000000000014">E03062F864025351</xref>
+        <xref offset="0x0000000000000018">1F60E267ACB700A3</xref>
+        <xref offset="0x000000000000001C">397F0880A1F1339E</xref>
+        <xref offset="0x0000000000000020">DF39227430CB70AF</xref>
+        <xref offset="0x0000000000000024">83128D0C7A927284</xref>
+        <xref offset="0x0000000000000028">502B758341A4C3D3</xref>
+        <xref offset="0x000000000000002C">BAD53073A1654076</xref>
+        <xref offset="0x0000000000000030">A50472C80865E423</xref>
+        <xref offset="0x0000000000000034">0D861CCB1F634AF5</xref>
+        <xref offset="0x0000000000000038">A983FF631989D4FA</xref>
+        <xref offset="0x000000000000003C">F3DE2E63AFEA9F3F</xref>
+        <xref offset="0x0000000000000040">257AED24721EFCA3</xref>
+        <xref offset="0x0000000000000044">D2C58C8C8374B8DE</xref>
+        <xref offset="0x0000000000000048">0977513A14ED4E65</xref>
+        <xref offset="0x000000000000004C">BEC32E378E59C857</xref>
+        <xref offset="0x0000000000000050">288A884325A852E8</xref>
+        <xref offset="0x0000000000000054">702E9BFD486220E1</xref>
+        <xref offset="0x0000000000000058">AB0E4A26793AF723</xref>
+        <xref offset="0x000000000000005C">2BE41BDEB9DCD1C5</xref>
+        <xref offset="0x0000000000000060">46A6F87BA8DB7526</xref>
+        <xref offset="0x0000000000000064">BB63C114A57DA0C3</xref>
+        <xref offset="0x0000000000000068">C8F9AD79FB0CF113</xref>
+        <xref offset="0x000000000000006C">D9E7F95F53BFA624</xref>
+        <xref offset="0x0000000000000070">96697EB6C27FE15E</xref>
+        <xref offset="0x0000000000000074">34EBC0BC264BBBB7</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>4ACA2FEA9A85F15B</id>
+    <version>
+      <size>0x0000000000000068</size>
+      <address>193</address>
+      <userdefinedname>TrapDoor_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">BAD39578D484F9DB</xref>
+        <xref offset="0x0000000000000004">B6A3925925D4134B</xref>
+        <xref offset="0x0000000000000008">8486D176D429B9E5</xref>
+        <xref offset="0x000000000000000C">897CFB030BE3AB76</xref>
+        <xref offset="0x0000000000000010">7EE4D9C9579479EB</xref>
+        <xref offset="0x0000000000000014">B53453575AF1354C</xref>
+        <xref offset="0x0000000000000018">AFAB82C91D193E3F</xref>
+        <xref offset="0x000000000000001C">5FA5CA76F1747426</xref>
+        <xref offset="0x0000000000000020">FA5369F2B7A4FE3F</xref>
+        <xref offset="0x0000000000000024">EF15B10466774267</xref>
+        <xref offset="0x0000000000000028">7CD51A6F007B2081</xref>
+        <xref offset="0x000000000000002C">76A3392CAD5B4B1C</xref>
+        <xref offset="0x0000000000000030">4A7C93118142BDBD</xref>
+        <xref offset="0x0000000000000034">AF0FA04664F4E197</xref>
+        <xref offset="0x0000000000000038">AC7BCA8B4CA03DE9</xref>
+        <xref offset="0x000000000000003C">28B0D9032B48A662</xref>
+        <xref offset="0x0000000000000040">0F3171B5948B9D7A</xref>
+        <xref offset="0x0000000000000044">D8FC5E9DED0A5472</xref>
+        <xref offset="0x0000000000000048">A3DB21552AF22119</xref>
+        <xref offset="0x000000000000004C">8A92035F125E571D</xref>
+        <xref offset="0x0000000000000050">B58A6ACC06759037</xref>
+        <xref offset="0x0000000000000054">22F7E4F7B2E8FDC8</xref>
+        <xref offset="0x0000000000000058">4E7C3F9D6077DAC1</xref>
+        <xref offset="0x000000000000005C">6DD13EFE7584DBE2</xref>
+        <xref offset="0x0000000000000060">2DEACFB0422BDCDA</xref>
+        <xref offset="0x0000000000000064">581C8834DC102FCA</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

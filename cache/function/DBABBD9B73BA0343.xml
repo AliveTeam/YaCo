@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>DBABBD9B73BA0343</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41F630</address>
+      <proto>Dove *__thiscall sub(Dove *this, char flags)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BC7AE39A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">0D3ACC1AC0195BD7</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000F">DCD4DEDBE57720CF</xref>
+        <xref offset="0x000000000000000F" size="0x0000000000000009">D5A05596C2985327</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000006">52E959F9D304B1FB</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

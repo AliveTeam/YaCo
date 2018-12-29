@@ -6,7 +6,7 @@
       <size>0x0000000000000009</size>
       <parent_id>BBB9BC485281F10D</parent_id>
       <address>496CD0</address>
-      <userdefinedname flags="0x00000054">Math_Sine_496CD0</userdefinedname>
+      <userdefinedname flags="0x00000054">Math_Cosine_496CD0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">5C578B8D</signature>
       </signatures>

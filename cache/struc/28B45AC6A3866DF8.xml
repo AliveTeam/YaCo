@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>28B45AC6A3866DF8</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <address>129</address>
+      <userdefinedname>MainMenuText</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E29845A57B4EB25E</xref>
+        <xref offset="0x0000000000000004">42A3D8861E661C22</xref>
+        <xref offset="0x0000000000000008">0F5636A36504D455</xref>
+        <xref offset="0x000000000000000C">0AE0D8C0D854C169</xref>
+        <xref offset="0x000000000000000D">A61848D5FB9688E0</xref>
+        <xref offset="0x000000000000000E">620D8075F04A19AF</xref>
+        <xref offset="0x000000000000000F">67DFA082DF50260B</xref>
+        <xref offset="0x0000000000000010">843CD5BD9A06CBEE</xref>
+        <xref offset="0x0000000000000014">010847A9F5B3EC5E</xref>
+        <xref offset="0x0000000000000015">DA7DB355A1095A96</xref>
+        <xref offset="0x0000000000000016">26EF503B67321201</xref>
+        <xref offset="0x0000000000000017">72570FA6618DCCCA</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

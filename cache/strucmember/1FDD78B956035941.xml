@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>1FDD78B956035941</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>86AB2107BCCFAB88</parent_id>
+      <address>8</address>
+      <userdefinedname>field_8_anim_frame_offset</userdefinedname>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

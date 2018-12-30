@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>E6ED51425D65DC64</id>
+    <version>
+      <size>0x00000000000000E4</size>
+      <parent_id>66411D3DB4E8C7AA</parent_id>
+      <address>561450</address>
+      <userdefinedname flags="0x00000054">sBtnArray_561450</userdefinedname>
+      <proto>MainMenuButton[19]</proto>
+      <flags>0x60005400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">86AB2107BCCFAB88</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>

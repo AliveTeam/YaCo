@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1FD529F1FE65E41C</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>5C5B4BF04FA08FD7</parent_id>
+      <address>4D3EF0</address>
+      <userdefinedname flags="0x00000054">MainMenuController::tLoadGame_Input_4D3EF0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1CE29141</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000014">9B3950AB7BD9B350</xref>
+        <xref offset="0x0000000000000066">DEE570A094828CD3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

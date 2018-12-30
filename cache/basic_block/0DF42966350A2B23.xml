@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0DF42966350A2B23</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>03AD2548A1CB1F78</parent_id>
+      <address>4D4360</address>
+      <userdefinedname flags="0x00000054">MainMenuController::tLoadGame_Unload_4D4360</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">403C8B73</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000C">6AD3C40BA688673C</xref>
+        <xref offset="0x000000000000001A">E2AAFC36A8EB6D1C</xref>
+        <xref offset="0x0000000000000047">1F7B93798F3E6CAF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

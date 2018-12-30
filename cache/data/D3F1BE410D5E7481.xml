@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>D3F1BE410D5E7481</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>D6A59BE3C711BC9A</parent_id>
+      <address>BB43E8</address>
+      <userdefinedname flags="0x00000054">sLoadGameSaveIdx_BB43E8</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>D238215D9F2945DF</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>D6A59BE3C711BC9A</parent_id>
+      <address>BB43F0</address>
+      <userdefinedname flags="0x00000054">sAnimatingSelectionChange_BB43F0</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

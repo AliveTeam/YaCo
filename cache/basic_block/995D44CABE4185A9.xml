@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>995D44CABE4185A9</id>
+    <version>
+      <size>0x0000000000000042</size>
+      <parent_id>CE0DE83C89A166C4</parent_id>
+      <address>4D42F0</address>
+      <userdefinedname flags="0x00000054">MainMenuController::tLoadGame_Load_4D42F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">74D6F20B</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000028" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001E">3DE64A2DD2047698</xref>
+        <xref offset="0x0000000000000023">F3BC7502E27BC660</xref>
+        <xref offset="0x0000000000000028">D3F1BE410D5E7481</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

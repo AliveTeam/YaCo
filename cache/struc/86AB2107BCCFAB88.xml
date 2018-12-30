@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>86AB2107BCCFAB88</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>11D</address>
+      <userdefinedname>MainMenuButton</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">FEA20AABAFF4452C</xref>
+        <xref offset="0x0000000000000002">950F315D8E58577D</xref>
+        <xref offset="0x0000000000000004">1040C33AF8ABCE31</xref>
+        <xref offset="0x0000000000000006">363B455F8FE5C6AD</xref>
+        <xref offset="0x0000000000000008">1FDD78B956035941</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>A5B0C27599D97F80</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>554858</address>
+      <userdefinedname flags="0x000000B4">stru_554858</userdefinedname>
+      <proto>SfxDefinition</proto>
+      <flags>0x60009400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">0ADA76A0E4F06E71</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>

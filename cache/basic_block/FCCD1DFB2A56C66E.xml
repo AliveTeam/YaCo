@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FCCD1DFB2A56C66E</id>
+    <version>
+      <size>0x0000000000000019</size>
+      <parent_id>F222EA86DE5D6E52</parent_id>
+      <address>457A40</address>
+      <userdefinedname flags="0x00000054">Abe_SFX_2_457A40</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CB40C244</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">switch 16 cases </comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000005" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000019">E08EE3F297A6122C</xref>
+        <xref offset="0x0000000000000120">4B02DF2C2C59F338</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

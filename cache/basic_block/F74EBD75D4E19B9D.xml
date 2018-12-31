@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F74EBD75D4E19B9D</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>111AAC51822935AE</parent_id>
+      <address>4E3B7F</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">9DBDDC25</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">pCamera</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">1007EEB45DEB4666</xref>
+        <xref offset="0x0000000000000007">177F8C38F55294D3</xref>
+        <xref offset="0x000000000000000F">47A3650CE67A7985</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

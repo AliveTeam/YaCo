@@ -6,7 +6,7 @@
       <size>0x000000000000000D</size>
       <parent_id>C2A1A818CE4409FA</parent_id>
       <address>4E3A60</address>
-      <userdefinedname flags="0x00000054">WorkWheel::vsub_4E3A60</userdefinedname>
+      <userdefinedname flags="0x00000054">WorkWheel::vStopTurning_4E3A60</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">57F3D80E</signature>
       </signatures>

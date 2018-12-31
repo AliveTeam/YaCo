@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>583DF76A7FE7EFD5</id>
+    <version>
+      <size>0x000000000000005F</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>466150</address>
+      <proto>void __thiscall sub(WheelSyncer *this)</proto>
+      <flags>0x440</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">9ED5AA77</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">926D01148F5E31A5</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000005F">02DFA0AE9733BCEE</xref>
+        <xref offset="0x00000000000D9EB0" size="0x0000000000000008">42B48434774F49EF</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

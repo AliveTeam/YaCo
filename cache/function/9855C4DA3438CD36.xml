@@ -6,7 +6,7 @@
       <size>0x000000000000001E</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>466120</address>
-      <proto>int __thiscall sub(void *, char)</proto>
+      <proto>WheelSyncer *__thiscall sub(WheelSyncer *this, char flags)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">BC7AE39A</signature>

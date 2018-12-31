@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>779A09D00E9A4187</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <address>1BB</address>
+      <userdefinedname>Path_WheelSyncer</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">0B2BC099AC3303B9</xref>
+        <xref offset="0x0000000000000010">06B0E5BADCF90FDB</xref>
+        <xref offset="0x0000000000000012">F72EA43534C50C7A</xref>
+        <xref offset="0x0000000000000014">4ACC7787DABE5AAC</xref>
+        <xref offset="0x0000000000000016">9EA86968022CD2C7</xref>
+        <xref offset="0x0000000000000018">7B3AD9432CE3823E</xref>
+        <xref offset="0x000000000000001A">70C2236661F98EE8</xref>
+        <xref offset="0x000000000000001C">FB7792C6FCF27F21</xref>
+        <xref offset="0x000000000000001E">D2B6942B46EECB00</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3DE2F5C9640CE468</id>
+    <version>
+      <size>0x000000000000021E</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4D5250</address>
+      <proto>BaseAnimatedWithPhysicsGameObject *__thiscall sub(StatusLight *this, signed __int16 *a2, _DWORD *a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">D3AD7FCC</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">7F5658A783B26346</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000059">7B216FD198B044BC</xref>
+        <xref offset="0x0000000000000059" size="0x0000000000000003">823DFAE6CF7A9B2C</xref>
+        <xref offset="0x000000000000005C" size="0x000000000000001B">E7197E6AD46C178C</xref>
+        <xref offset="0x0000000000000077" size="0x0000000000000019">988CB2611DDBF1DE</xref>
+        <xref offset="0x0000000000000090" size="0x0000000000000099">6D05FA1FF9614DCC</xref>
+        <xref offset="0x0000000000000129" size="0x0000000000000025">E23CFD9783D3D1D9</xref>
+        <xref offset="0x000000000000014E" size="0x000000000000007D">8C0E532B5BDE371F</xref>
+        <xref offset="0x00000000000001CB" size="0x0000000000000005">A88254706DFA28E0</xref>
+        <xref offset="0x00000000000001D0" size="0x0000000000000021">368D67916207EB65</xref>
+        <xref offset="0x00000000000001F1" size="0x000000000000002D">A312E6623C18FEE3</xref>
+        <xref offset="0x000000000006CD30" size="0x0000000000000008">AD80D56605352A67</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

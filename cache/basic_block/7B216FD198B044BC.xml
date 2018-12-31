@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7B216FD198B044BC</id>
+    <version>
+      <size>0x0000000000000059</size>
+      <parent_id>3DE2F5C9640CE468</parent_id>
+      <address>4D5250</address>
+      <userdefinedname flags="0x000000D4">StatusLight::ctor_4D5250</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">A814BAF5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">resourceArraySize</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001E" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000027" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002B" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002F" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000004F" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">A0B220B76F5D8774</xref>
+        <xref offset="0x0000000000000022">CE733ABCC5AFA390</xref>
+        <xref offset="0x000000000000002F">0FEFE9FEED4A186B</xref>
+        <xref offset="0x0000000000000059">823DFAE6CF7A9B2C</xref>
+        <xref offset="0x0000000000000077">988CB2611DDBF1DE</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

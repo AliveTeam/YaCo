@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CD92FDE115A7D179</id>
+    <version>
+      <size>0x000000000000004F</size>
+      <parent_id>3543775085FFB4C5</parent_id>
+      <address>4D5530</address>
+      <userdefinedname flags="0x000000D4">StatusLight::vUpdate_4D5530</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">AB5580C8</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000030" type="nonrepeatable_comment">idx</comments>
+        <comments offset="0000000000000048" type="nonrepeatable_comment">idx</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">C3D2E5872C61FD3D</xref>
+        <xref offset="0x0000000000000019">577F0D2E5F688C10</xref>
+        <xref offset="0x0000000000000037">F015A39A2DE7D067</xref>
+        <xref offset="0x000000000000004F">474B3EF7CCD011B7</xref>
+        <xref offset="0x0000000000000122">307517006BA6DB03</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

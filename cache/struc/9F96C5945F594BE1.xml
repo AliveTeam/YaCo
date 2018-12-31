@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>9F96C5945F594BE1</id>
+    <version>
+      <size>0x0000000000000110</size>
+      <address>1BC</address>
+      <userdefinedname>StatusLight</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">731A3E2B3E7AC002</xref>
+        <xref offset="0x00000000000000E4">2438C6CDD5AA0867</xref>
+        <xref offset="0x00000000000000E8">A935C047D08502D2</xref>
+        <xref offset="0x00000000000000EC">5E655880243407E0</xref>
+        <xref offset="0x00000000000000F0">5854B5C8A6B8D4E1</xref>
+        <xref offset="0x00000000000000F4">F4AB8602574317A8</xref>
+        <xref offset="0x00000000000000F8">97043293D2B15535</xref>
+        <xref offset="0x00000000000000FA">A083C38E801E6DCF</xref>
+        <xref offset="0x00000000000000FC">875415C20B0613A2</xref>
+        <xref offset="0x00000000000000FE">62191A06C393E14A</xref>
+        <xref offset="0x0000000000000100">B9F127625F90A47D</xref>
+        <xref offset="0x0000000000000102">D8B5240596C3D37B</xref>
+        <xref offset="0x0000000000000104">F766454194A50846</xref>
+        <xref offset="0x0000000000000108">D740E95F556D8451</xref>
+        <xref offset="0x000000000000010C">828A212874934541</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

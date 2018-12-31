@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>13E8D8691637AC93</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>DE81940016F601C7</parent_id>
+      <address>4D5820</address>
+      <userdefinedname flags="0x000000D4">StatusLight::vScreenChanged_4D5820</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">48D6E76F</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

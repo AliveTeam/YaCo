@@ -6,7 +6,7 @@
       <size>0x0000000000000063</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>466090</address>
-      <proto>WheelSyncer *__thiscall sub(WheelSyncer *this, _WORD *pTlv, _DWORD tlvInfo)</proto>
+      <proto>WheelSyncer *__thiscall sub(WheelSyncer *this, Path_WheelSyncer *pTlv, int tlvInfo)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">E129BDF9</signature>

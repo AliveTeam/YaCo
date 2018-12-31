@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>960CDDC8183D08AD</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>1DF30F25DA91FB46</parent_id>
+      <address>4E3AD0</address>
+      <userdefinedname flags="0x00000054">WorkWheel::vScreenChanged_4E3AD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">8F628565</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000006" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000006">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000000F">6D79CF1B81A5A757</xref>
+        <xref offset="0x0000000000000029">14271F2807303339</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

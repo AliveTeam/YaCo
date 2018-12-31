@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>DBD4DFC166D0F08B</id>
+    <version>
+      <size>0x0000000000000108</size>
+      <address>1B7</address>
+      <userdefinedname>WorkWheel</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">DC9E170C3294D577</xref>
+        <xref offset="0x00000000000000E4">DE9A0252645565EA</xref>
+        <xref offset="0x00000000000000E8">66F8EA14F940FEC6</xref>
+        <xref offset="0x00000000000000EC">569170F54BC9884A</xref>
+        <xref offset="0x00000000000000F0">3F7C49AE17D7492F</xref>
+        <xref offset="0x00000000000000F4">3F7DA3B2DABCF932</xref>
+        <xref offset="0x00000000000000F8">50FF957C8493939F</xref>
+        <xref offset="0x00000000000000FA">F6AA919F8E55ABC2</xref>
+        <xref offset="0x00000000000000FC">FA9D8BC3024B9EDE</xref>
+        <xref offset="0x00000000000000FE">AD173FC8DC516FA3</xref>
+        <xref offset="0x0000000000000100">FE23ADC20863FDAC</xref>
+        <xref offset="0x0000000000000102">25D038E68F9141E0</xref>
+        <xref offset="0x0000000000000104">253B244E57125342</xref>
+        <xref offset="0x0000000000000106">6C7D69BFA1C467DB</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

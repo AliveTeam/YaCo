@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9CD62C55D9C4FA74</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>B8521D8C65265783</parent_id>
+      <address>4E3800</address>
+      <userdefinedname flags="0x00000054">WorkWheel::dtor_424AD0_11</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">24A6AF9B67F8FC57</xref>
+        <xref offset="0x00000000FFF1DE7C">24A6AF9B67F8FC57</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

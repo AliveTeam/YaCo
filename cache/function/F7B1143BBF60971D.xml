@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>F7B1143BBF60971D</id>
+    <version>
+      <size>0x00000000000000FF</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4E38E0</address>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B61029DB</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">C4B7BD574B6039CB</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">4CB14051B7492971</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000004">BB45146EA69B7B31</xref>
+        <xref offset="0x0000000000000015" size="0x000000000000000A">BF39D4144DB8CBFF</xref>
+        <xref offset="0x000000000000001F" size="0x000000000000001F">8B4B77FF7100A8E1</xref>
+        <xref offset="0x000000000000003E" size="0x000000000000002E">5DA4A7D521E3A19C</xref>
+        <xref offset="0x000000000000006C" size="0x000000000000001C">AC3D10392C43676F</xref>
+        <xref offset="0x0000000000000088" size="0x0000000000000009">A14B0173E2A33DE8</xref>
+        <xref offset="0x0000000000000091" size="0x000000000000000C">B877FDEE28D0F64E</xref>
+        <xref offset="0x000000000000009D" size="0x0000000000000010">189B923AEA000740</xref>
+        <xref offset="0x00000000000000AD" size="0x000000000000000A">073774BD8974367D</xref>
+        <xref offset="0x00000000000000B7" size="0x0000000000000006">633FFCA3D3E0A7F4</xref>
+        <xref offset="0x00000000000000BD" size="0x0000000000000005">07F2DB542E4B695B</xref>
+        <xref offset="0x00000000000000C2" size="0x000000000000000C">E095C99F4195C065</xref>
+        <xref offset="0x00000000000000CE" size="0x0000000000000009">DF9791B59CCC2CA8</xref>
+        <xref offset="0x00000000000000D7" size="0x0000000000000014">7138CA25180A2EBF</xref>
+        <xref offset="0x00000000000000EB" size="0x0000000000000012">24779753045CBEF8</xref>
+        <xref offset="0x00000000000000FD" size="0x0000000000000002">D6500182ED3EC41F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

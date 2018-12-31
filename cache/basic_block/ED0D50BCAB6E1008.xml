@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>ED0D50BCAB6E1008</id>
+    <version>
+      <size>0x0000000000000062</size>
+      <parent_id>E6D3F71245F284DA</parent_id>
+      <address>4E3850</address>
+      <userdefinedname flags="0x00000054">WorkWheel::dtor_4E3850</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3A67115B</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000002F" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000031" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000035" type="nonrepeatable_comment">tlvOffset_levelId_PathId</comments>
+        <comments offset="0000000000000043" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000029" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000036" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000045" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000052" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">7C596D78950CBC20</xref>
+        <xref offset="0x000000000000001D">CDC0E5729BB6D299</xref>
+        <xref offset="0x0000000000000029">83733319CF2FEC26</xref>
+        <xref offset="0x000000000000003E">749D2D8472D1FA73</xref>
+        <xref offset="0x000000000000004D">7243AC4F7040C99A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

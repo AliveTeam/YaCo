@@ -6,7 +6,8 @@
       <size>0x0000000000000002</size>
       <parent_id>DBD4DFC166D0F08B</parent_id>
       <address>100</address>
-      <userdefinedname>field_100</userdefinedname>
+      <userdefinedname>field_100_snd_counter</userdefinedname>
+      <proto>unsigned __int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

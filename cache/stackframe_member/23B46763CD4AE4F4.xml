@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>D4B8EA78F5673C81</id>
+    <id>23B46763CD4AE4F4</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>5D09A1B5323B45BA</parent_id>
-      <address>2C</address>
-      <userdefinedname>pTlv</userdefinedname>
-      <proto>Path_Wheel *</proto>
+      <parent_id>6848B80BC04C4FFB</parent_id>
+      <address>4</address>
+      <userdefinedname>arg_0</userdefinedname>
+      <proto>WorkWheel_SaveState *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

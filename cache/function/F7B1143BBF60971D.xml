@@ -6,6 +6,7 @@
       <size>0x00000000000000FF</size>
       <parent_id>3195A365591CA35B</parent_id>
       <address>4E38E0</address>
+      <proto>void __thiscall sub(WorkWheel *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">B61029DB</signature>

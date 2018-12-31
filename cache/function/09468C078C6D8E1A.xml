@@ -6,7 +6,7 @@
       <size>0x00000000000001BF</size>
       <parent_id>3195A365591CA35B</parent_id>
       <address>4E35D0</address>
-      <proto>BaseAnimatedWithPhysicsGameObject *__thiscall sub(WorkWheel *this, int a2, _DWORD *a3)</proto>
+      <proto>WorkWheel *__thiscall sub(WorkWheel *this, Path_Wheel *pTlv, _DWORD tlvInfo)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">33746E4D</signature>

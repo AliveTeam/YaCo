@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>C2A1A818CE4409FA</id>
+    <version>
+      <size>0x000000000000004D</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4E3A60</address>
+      <proto>void __thiscall sub(WorkWheel *this, __int16 bResetSwitch)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">50EF9166</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">BE32EF4FB6A5E6A2</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000D">B5BE8864ACB1F5DB</xref>
+        <xref offset="0x000000000000000D" size="0x0000000000000022">7C09278F0DCF02E6</xref>
+        <xref offset="0x000000000000002F" size="0x0000000000000008">F865B67E419F4392</xref>
+        <xref offset="0x0000000000000037" size="0x0000000000000012">4228B7217759692C</xref>
+        <xref offset="0x0000000000000049" size="0x0000000000000004">80DC1E929DE3F421</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

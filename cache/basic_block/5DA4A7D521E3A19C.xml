@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5DA4A7D521E3A19C</id>
+    <version>
+      <size>0x000000000000002E</size>
+      <parent_id>F7B1143BBF60971D</parent_id>
+      <address>4E391E</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">ABB6432E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">width</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">ypos</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">xpos</comments>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">path</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">level</comments>
+        <comments offset="000000000000001F" type="nonrepeatable_comment">this</comments>
+        <valueview offset="000000000000001F" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001F">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000024">0C4B91B73FB67A24</xref>
+        <xref offset="0x000000000000002E">AC3D10392C43676F</xref>
+        <xref offset="0x0000000000000053">B877FDEE28D0F64E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

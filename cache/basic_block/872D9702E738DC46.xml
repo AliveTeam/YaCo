@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>872D9702E738DC46</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>D5E1439E912E7AC6</parent_id>
+      <address>4E3A20</address>
+      <userdefinedname flags="0x00000054">WorkWheel::vsub_4E3A20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">ED68ED7E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000A">04F314B86C1744A9</xref>
+        <xref offset="0x0000000000000023">EBBBFCB7D6206B2F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

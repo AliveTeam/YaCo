@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>D5E1439E912E7AC6</id>
+    <version>
+      <size>0x0000000000000024</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4E3A20</address>
+      <proto>void __thiscall sub(WorkWheel *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6C8C7728</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">E466902AC26F9C0F</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000A">872D9702E738DC46</xref>
+        <xref offset="0x000000000000000A" size="0x0000000000000019">04F314B86C1744A9</xref>
+        <xref offset="0x0000000000000023" size="0x0000000000000001">EBBBFCB7D6206B2F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

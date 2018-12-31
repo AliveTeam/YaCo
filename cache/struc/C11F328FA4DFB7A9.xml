@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C11F328FA4DFB7A9</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>1B8</address>
+      <userdefinedname>Path_Wheel</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">072D0950E7E7F108</xref>
+        <xref offset="0x0000000000000010">4225F38AEE2819A3</xref>
+        <xref offset="0x0000000000000012">E59E1B146F8BC8CA</xref>
+        <xref offset="0x0000000000000014">E0AD285FA37093A7</xref>
+        <xref offset="0x0000000000000016">1AD04E3A01168A18</xref>
+        <xref offset="0x0000000000000018">F1A7D881E181C3F0</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -6,7 +6,7 @@
       <size>0x000000000000021E</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4D5250</address>
-      <proto>BaseAnimatedWithPhysicsGameObject *__thiscall sub(StatusLight *this, signed __int16 *a2, _DWORD *a3)</proto>
+      <proto>StatusLight *__thiscall sub(StatusLight *this, signed __int16 *pTlv, int tlvInfo)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">D3AD7FCC</signature>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>59C04BF2D5E71BF4</id>
+    <version>
+      <size>0x0000000000000034</size>
+      <address>1BA</address>
+      <userdefinedname>WheelSyncer</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">3E8DD0545E0F7A0B</xref>
+        <xref offset="0x0000000000000020">BB5C896B7A00A4D0</xref>
+        <xref offset="0x0000000000000022">9C99D6597A6462DE</xref>
+        <xref offset="0x0000000000000024">010275EC58D4A5ED</xref>
+        <xref offset="0x0000000000000026">A7E4EA993DB6BD0B</xref>
+        <xref offset="0x0000000000000028">1C7C8540B8570343</xref>
+        <xref offset="0x000000000000002A">87D6BD712953FB99</xref>
+        <xref offset="0x000000000000002C">A79316530CE4DA0E</xref>
+        <xref offset="0x000000000000002E">48A8188D4D61FA57</xref>
+        <xref offset="0x0000000000000030">B721FE7EBE727D3C</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

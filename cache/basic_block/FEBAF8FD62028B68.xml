@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FEBAF8FD62028B68</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>9855C4DA3438CD36</parent_id>
+      <address>466120</address>
+      <userdefinedname flags="0x000000D4">WheelSyncer::vdtor_466120</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">02DFA0AE9733BCEE</xref>
+        <xref offset="0x000000000000000F">66482E42B2C7692E</xref>
+        <xref offset="0x0000000000000018">D29F248BF22E2DD7</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0CA78E7075AC7C84</id>
+    <version>
+      <size>0x0000000000000063</size>
+      <parent_id>0A8F413F4516CCBA</parent_id>
+      <address>466090</address>
+      <userdefinedname flags="0x000000D4">WheelSyncer::ctor_466090</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E129BDF9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <valueview offset="000000000000000C" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">A7260007830E0215</xref>
+        <xref offset="0x0000000000000010">83B695805D1FAE08</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

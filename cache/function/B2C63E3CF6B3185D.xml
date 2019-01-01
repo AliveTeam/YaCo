@@ -6,7 +6,7 @@
       <size>0x00000000000001E8</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4D5860</address>
-      <proto>Switch *__thiscall sub(Switch *this, int pTlv, int a3)</proto>
+      <proto>Switch *__thiscall sub(Switch *this, int pTlv, int tlvInfo)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">53FE38F8</signature>

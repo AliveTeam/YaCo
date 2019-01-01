@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>F03AB9AD314567E9</parent_id>
       <address>8</address>
-      <userdefinedname>a8</userdefinedname>
+      <userdefinedname>hitY</userdefinedname>
       <proto>_DWORD</proto>
       <flags>0x20000400</flags>
       <signatures/>

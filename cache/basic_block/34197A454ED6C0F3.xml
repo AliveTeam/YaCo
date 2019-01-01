@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>34197A454ED6C0F3</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>B384E591BEA7227F</parent_id>
+      <address>4D5AD0</address>
+      <userdefinedname flags="0x000000D4">Switch::vdtor_4D5AD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">8E425B8302C3CE7E</xref>
+        <xref offset="0x000000000000000F">86C922742CBDBC6A</xref>
+        <xref offset="0x0000000000000018">18094A8F6C5F3FA1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E7E29FAD6C64A1A0</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>32136DAFE63D8494</parent_id>
+      <address>4DD3E0</address>
+      <userdefinedname flags="0x00000054">LevelLoader::dtor_4DD3E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">390C6FBA1C24DA82</xref>
+        <xref offset="0x00000000FFF26D5D">390C6FBA1C24DA82</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

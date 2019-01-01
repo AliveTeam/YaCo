@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>2929FB7096389839</parent_id>
       <address>108</address>
-      <userdefinedname>field_108</userdefinedname>
+      <userdefinedname>field_108_sound_direction</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

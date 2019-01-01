@@ -7,7 +7,8 @@
       <parent_id>F03AB9AD314567E9</parent_id>
       <address>28</address>
       <userdefinedname>pTlv</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>Path_Switch *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

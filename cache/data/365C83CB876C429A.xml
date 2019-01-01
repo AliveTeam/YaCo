@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>365C83CB876C429A</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>3F668358DA7A7480</parent_id>
+      <address>547A40</address>
+      <userdefinedname flags="0x00000034">maxH</userdefinedname>
+      <proto>unsigned __int16</proto>
+      <flags>0x1000D400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

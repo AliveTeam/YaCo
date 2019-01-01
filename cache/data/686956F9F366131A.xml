@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>686956F9F366131A</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3F668358DA7A7480</parent_id>
+      <address>547A38</address>
+      <userdefinedname flags="0x00000034">frameTableOffset</userdefinedname>
+      <proto>int</proto>
+      <flags>0x2000D400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

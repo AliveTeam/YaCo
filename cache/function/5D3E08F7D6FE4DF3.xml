@@ -6,6 +6,7 @@
       <size>0x0000000000000340</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4D5C00</address>
+      <proto>void __thiscall sub(Switch *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">6F0B4D5B</signature>

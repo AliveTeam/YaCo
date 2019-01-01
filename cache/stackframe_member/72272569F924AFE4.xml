@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>72272569F924AFE4</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>F03AB9AD314567E9</parent_id>
+      <address>14</address>
+      <userdefinedname>hitX</userdefinedname>
+      <proto>PathLine *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

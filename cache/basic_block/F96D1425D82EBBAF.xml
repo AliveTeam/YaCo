@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F96D1425D82EBBAF</id>
+    <version>
+      <size>0x00000000000000A3</size>
+      <parent_id>B2C63E3CF6B3185D</parent_id>
+      <address>4D594B</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">36577BB7</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000038" type="nonrepeatable_comment">x</comments>
+        <comments offset="000000000000003F" type="nonrepeatable_comment">scale</comments>
+        <comments offset="0000000000000076" type="nonrepeatable_comment">modeMask</comments>
+        <comments offset="000000000000007B" type="nonrepeatable_comment">a8</comments>
+        <comments offset="0000000000000080" type="nonrepeatable_comment">hitY</comments>
+        <comments offset="0000000000000085" type="nonrepeatable_comment">hitX</comments>
+        <comments offset="0000000000000086" type="nonrepeatable_comment">Y2</comments>
+        <comments offset="000000000000008D" type="nonrepeatable_comment">X2</comments>
+        <comments offset="0000000000000090" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000096" type="nonrepeatable_comment">Y1</comments>
+        <comments offset="0000000000000097" type="nonrepeatable_comment">X1</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000077" operand="00000001">stack</valueview>
+        <valueview offset="000000000000007C" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000081" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000090" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000008">76C54EA6EB601452</xref>
+        <xref offset="0x000000000000000F">461C1AE2D8A01E80</xref>
+        <xref offset="0x0000000000000040">863C2031832610D0</xref>
+        <xref offset="0x0000000000000090">8506D0AD7E05103B</xref>
+        <xref offset="0x0000000000000098">3F7FD1F514461C58</xref>
+        <xref offset="0x00000000000000A3">DE22402880002845</xref>
+        <xref offset="0x00000000000000AD">73F76A6754AB9A9B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

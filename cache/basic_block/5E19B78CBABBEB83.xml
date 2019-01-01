@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5E19B78CBABBEB83</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>0639251CA66A7D1B</parent_id>
+      <address>4D6050</address>
+      <userdefinedname flags="0x000000D4">Switch::vsub_4D6050</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">57F3D80E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000D">39289D23A9750C35</xref>
+        <xref offset="0x000000000000005D">B3532D5E0CA6E5FE</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

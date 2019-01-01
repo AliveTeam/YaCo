@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>2929FB7096389839</id>
+    <version>
+      <size>0x000000000000010C</size>
+      <address>1C0</address>
+      <userdefinedname>Switch</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">BADB92681E49E13A</xref>
+        <xref offset="0x00000000000000E4">BB23E0682A6DFFAC</xref>
+        <xref offset="0x00000000000000E8">92D66D00D8074219</xref>
+        <xref offset="0x00000000000000EC">A8A368AA2A52373F</xref>
+        <xref offset="0x00000000000000F0">4DABF6BD5D55D78A</xref>
+        <xref offset="0x00000000000000F4">514EA405CF54DE8A</xref>
+        <xref offset="0x00000000000000F8">79E09F28C8F1160E</xref>
+        <xref offset="0x00000000000000FA">CE72FFF02457EB8C</xref>
+        <xref offset="0x00000000000000FC">EE47CFD0FFD01F22</xref>
+        <xref offset="0x0000000000000100">421F79DF89F216C5</xref>
+        <xref offset="0x0000000000000102">AB04529D9F4D40E0</xref>
+        <xref offset="0x0000000000000104">F60B2BB6CB7C28BD</xref>
+        <xref offset="0x0000000000000106">BDAE556B2BE62356</xref>
+        <xref offset="0x0000000000000108">BCAE6F02665FD59F</xref>
+        <xref offset="0x000000000000010A">0FD19453241D8540</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

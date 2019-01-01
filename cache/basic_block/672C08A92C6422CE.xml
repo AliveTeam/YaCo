@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>672C08A92C6422CE</id>
+    <version>
+      <size>0x0000000000000027</size>
+      <parent_id>368C8D39297034BE</parent_id>
+      <address>4DD400</address>
+      <userdefinedname flags="0x00000054">LevelLoader::vUpdate_4DD400</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F9D1258F</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">idx</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">301637E1CE03F240</xref>
+        <xref offset="0x000000000000001B">BDE9AC4141BD970D</xref>
+        <xref offset="0x0000000000000027">205669F38D88BF36</xref>
+        <xref offset="0x000000000000003B">4BF20B0673F3580E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

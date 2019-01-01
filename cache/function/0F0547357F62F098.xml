@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>0F0547357F62F098</id>
+    <version>
+      <size>0x000000000000002C</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4D6250</address>
+      <proto>void __thiscall sub(MultiSwitchController *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">D82F661F</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">5EB29DED4B8512AE</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">8ADC287BE4B6EB5E</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000004">14B488552707083B</xref>
+        <xref offset="0x0000000000000015" size="0x0000000000000009">ECF114209DF25673</xref>
+        <xref offset="0x000000000000001E" size="0x0000000000000007">9F9A07562F12F5D4</xref>
+        <xref offset="0x0000000000000025" size="0x0000000000000007">1C136ECE0759B48F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>65D1ADA70B10CD9E</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>B917671127227C4C</parent_id>
+      <address>30</address>
+      <userdefinedname>field_30_tlvInfo</userdefinedname>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

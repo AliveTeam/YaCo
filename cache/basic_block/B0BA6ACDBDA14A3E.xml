@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B0BA6ACDBDA14A3E</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>6084FAE4E6CDF9FC</parent_id>
+      <address>4D6860</address>
+      <userdefinedname flags="0x00000054">MultiSwitchController::vScreenChanged_4D6860</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B6454DB5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000004" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000B" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000000B">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000010">377BC56E764B7E6E</xref>
+        <xref offset="0x000000000000001A">ACE7E7270871DDD5</xref>
+        <xref offset="0x000000000000001E">BB327CD657D13E90</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

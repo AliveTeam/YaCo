@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0F3756C05569A2DE</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>C3166C0B1988439A</parent_id>
+      <address>4D61A0</address>
+      <userdefinedname flags="0x00000054">MultiSwitchController::vdtor_4D61A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">6D3E623B89B9877B</xref>
+        <xref offset="0x000000000000000F">713BDFE4B63AF900</xref>
+        <xref offset="0x0000000000000018">E53B19B117846C29</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

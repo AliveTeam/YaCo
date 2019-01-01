@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AAD8F8B2EABE3307</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>1A279DCD01E8D447</parent_id>
+      <address>4D65B0</address>
+      <userdefinedname flags="0x00000054">MultiSwitchController::sub_4D65B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9213560F</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000017">16299F5566B7D9EC</xref>
+        <xref offset="0x0000000000000056">43525B6F551CCC0C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

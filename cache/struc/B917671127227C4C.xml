@@ -3,13 +3,26 @@
   <struc>
     <id>B917671127227C4C</id>
     <version>
-      <size>0x0000000000000022</size>
+      <size>0x0000000000000044</size>
       <address>1C2</address>
       <userdefinedname>MultiSwitchController</userdefinedname>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">C20F28875C3AFA59</xref>
         <xref offset="0x0000000000000020">B325C0C61F0B4113</xref>
+        <xref offset="0x0000000000000022">9A0A525AB4B70464</xref>
+        <xref offset="0x0000000000000024">CC0E293191958694</xref>
+        <xref offset="0x0000000000000026">5A23B2F1D2B56058</xref>
+        <xref offset="0x0000000000000028">E96A3673A1B3F7FD</xref>
+        <xref offset="0x000000000000002A">7DB513959F9C0169</xref>
+        <xref offset="0x000000000000002C">79C7B1A750CABDDB</xref>
+        <xref offset="0x000000000000002E">A54255B0D3B174F8</xref>
+        <xref offset="0x0000000000000030">65D1ADA70B10CD9E</xref>
+        <xref offset="0x0000000000000034">FFCF7D5968BDC7EB</xref>
+        <xref offset="0x0000000000000038">FED5C7EEE308981D</xref>
+        <xref offset="0x000000000000003C">5004E06CF9E792DF</xref>
+        <xref offset="0x0000000000000040">3D39C9748EA9E68E</xref>
+        <xref offset="0x0000000000000042">29FA609EE6AD10D2</xref>
       </xrefs>
     </version>
   </struc>

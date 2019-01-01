@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>0D84CD120C88D1CD</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>7094A9FD0C1A46B8</parent_id>
+      <address>C</address>
+      <userdefinedname>tlvInfo</userdefinedname>
+      <proto>_DWORD</proto>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6784EBBE7FE50AAB</id>
+    <version>
+      <size>0x0000000000000054</size>
+      <parent_id>2B77068B9BA91C11</parent_id>
+      <address>4DD330</address>
+      <userdefinedname flags="0x00000054">LevelLoader::ctor_4DD330</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B1CFE03A</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <valueview offset="000000000000000C" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">A7260007830E0215</xref>
+        <xref offset="0x0000000000000014">087A7ED27FDDA1F9</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

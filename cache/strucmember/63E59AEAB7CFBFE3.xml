@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>63E59AEAB7CFBFE3</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>13D74D482DA8BB18</parent_id>
+      <address>2A</address>
+      <userdefinedname>field_2A_movie</userdefinedname>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>2B77068B9BA91C11</id>
+    <version>
+      <size>0x0000000000000054</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4DD330</address>
+      <proto>LevelLoader *__thiscall sub(LevelLoader *this, Path_LevelLoader *pTlv, int tlvInfo)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B1CFE03A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">B405DEB6ED707685</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000054">6784EBBE7FE50AAB</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

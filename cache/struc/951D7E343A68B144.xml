@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>951D7E343A68B144</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>1BF</address>
+      <userdefinedname>Path_LevelLoader</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">16F6CC11E6DC3906</xref>
+        <xref offset="0x0000000000000010">1F659795A0955A14</xref>
+        <xref offset="0x0000000000000012">DDBEF22B93506CBD</xref>
+        <xref offset="0x0000000000000014">1FBCD2A4AAA89595</xref>
+        <xref offset="0x0000000000000016">F92836DCF77A94F7</xref>
+        <xref offset="0x0000000000000018">1736B46B6815E475</xref>
+        <xref offset="0x000000000000001A">68DA824E642A39EE</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

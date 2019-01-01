@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>08F91306B5BD9B62</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>13D74D482DA8BB18</parent_id>
+      <address>28</address>
+      <userdefinedname>field_28_camera</userdefinedname>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

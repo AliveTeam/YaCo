@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <basic_block>
-    <id>AC52BA4AAD7DC32C</id>
+    <id>E5AE3203EE760531</id>
     <version>
       <size>0x000000000000000E</size>
-      <parent_id>B5C75E4D378C3F29</parent_id>
-      <address>492CF0</address>
-      <userdefinedname flags="0x00000054">Input_GetGamePadCode_492CF0</userdefinedname>
+      <parent_id>0222B5B3CDB873EA</parent_id>
+      <address>492CA0</address>
+      <userdefinedname flags="0x00000054">Input_GetKeyboardKeyCode_492CA0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">68B8B4C7</signature>
       </signatures>
@@ -15,8 +15,8 @@
         <valueview offset="0000000000000009" operand="00000001">offset-off32</valueview>
       </offsets>
       <xrefs>
-        <xref offset="0x0000000000000009">1FCCC74296150E7E</xref>
-        <xref offset="0x000000000000000E">364830772FF09EDB</xref>
+        <xref offset="0x0000000000000009">CB4AA8E27D78D209</xref>
+        <xref offset="0x000000000000000E">CEB61C2D74FA278F</xref>
       </xrefs>
     </version>
   </basic_block>

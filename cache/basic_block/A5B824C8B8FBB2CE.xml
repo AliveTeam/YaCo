@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A5B824C8B8FBB2CE</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>156341DE49DE7956</parent_id>
+      <address>493180</address>
+      <userdefinedname flags="0x00000054">Input_SetKeyboardBinding_493180</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0AA5EBDC</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">char *</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">E5AE3203EE760531</xref>
+        <xref offset="0x0000000000000014">55FC0928A0CFDDB4</xref>
+        <xref offset="0x000000000000003C">BB427C6C59E6DA80</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

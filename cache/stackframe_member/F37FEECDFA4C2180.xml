@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>F37FEECDFA4C2180</id>
+    <version>
+      <size>0x0000000000000400</size>
+      <parent_id>CA2A8BA7313AC6AE</parent_id>
+      <address>10</address>
+      <userdefinedname>abeIniBuffer</userdefinedname>
+      <proto>char[]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

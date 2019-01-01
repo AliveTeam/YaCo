@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>E515E5F19DD5CCB8</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C9794</address>
+      <userdefinedname flags="0x00000054">sKeyboardBindings_5C9794</userdefinedname>
+      <proto>int</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

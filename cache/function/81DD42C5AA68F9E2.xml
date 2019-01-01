@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>81DD42C5AA68F9E2</id>
+    <version>
+      <size>0x000000000000005F</size>
+      <parent_id>6AC3B5E1C82E804B</parent_id>
+      <address>45FB20</address>
+      <proto>void __thiscall sub(InvisibleSwitch *this)</proto>
+      <flags>0x400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">9ED5AA77</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">6FF4623045F32CFE</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000005F">51E3BA69CC0472DF</xref>
+        <xref offset="0x00000000000E01B0" size="0x0000000000000008">A479AA9F66AD5D42</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

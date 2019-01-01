@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>E06C594A2966A17D</parent_id>
       <address>28</address>
-      <userdefinedname>field_28</userdefinedname>
+      <userdefinedname>field_28_delay_timer</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

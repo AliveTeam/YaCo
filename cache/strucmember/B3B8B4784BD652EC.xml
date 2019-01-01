@@ -6,10 +6,13 @@
       <size>0x0000000000000004</size>
       <parent_id>E06C594A2966A17D</parent_id>
       <address>30</address>
-      <userdefinedname>field_30</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>field_30_top_left</userdefinedname>
+      <proto>PSX_Point</proto>
+      <flags>0x60000400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E62EE18DC61209D7</xref>
+      </xrefs>
     </version>
   </strucmember>
 </sigfile>

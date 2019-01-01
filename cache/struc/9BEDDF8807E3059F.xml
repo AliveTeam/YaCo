@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>9BEDDF8807E3059F</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <address>1BD</address>
+      <userdefinedname>Path_StatusLight</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">C38BFD231BF41DD2</xref>
+        <xref offset="0x0000000000000010">4FCDAB5EE044DD29</xref>
+        <xref offset="0x0000000000000012">0C79D1597186CE8F</xref>
+        <xref offset="0x0000000000000014">9DB653BFFB8B8F28</xref>
+        <xref offset="0x0000000000000016">E448899E6AE491D5</xref>
+        <xref offset="0x0000000000000018">7ECE0317B904F02C</xref>
+        <xref offset="0x000000000000001A">CDBCAB97DC889B2E</xref>
+        <xref offset="0x000000000000001C">D8DF9B6731B4D6E3</xref>
+        <xref offset="0x000000000000001E">A2B6F7DAD8411282</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

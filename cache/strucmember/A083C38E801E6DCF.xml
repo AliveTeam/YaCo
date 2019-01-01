@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>9F96C5945F594BE1</parent_id>
       <address>FA</address>
-      <userdefinedname>field_FA</userdefinedname>
+      <userdefinedname>field_FA_id1</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

@@ -3,13 +3,23 @@
   <struc>
     <id>E06C594A2966A17D</id>
     <version>
-      <size>0x0000000000000021</size>
+      <size>0x0000000000000040</size>
       <address>1C4</address>
       <userdefinedname>InvisibleSwitch</userdefinedname>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">BBE4CEC1B84FEA13</xref>
         <xref offset="0x0000000000000020">93DBDEF1552EC347</xref>
+        <xref offset="0x0000000000000022">ACEDD963D510A93F</xref>
+        <xref offset="0x0000000000000024">7067F05724BA032A</xref>
+        <xref offset="0x0000000000000028">94ED6673C460C76E</xref>
+        <xref offset="0x000000000000002C">5CA73302ACC7A749</xref>
+        <xref offset="0x0000000000000030">B3B8B4784BD652EC</xref>
+        <xref offset="0x0000000000000034">67E3625F0AFB7645</xref>
+        <xref offset="0x0000000000000038">F34BB844470871B7</xref>
+        <xref offset="0x000000000000003A">E05F94DBAFE95699</xref>
+        <xref offset="0x000000000000003C">7F464FEBE4379BAE</xref>
+        <xref offset="0x000000000000003E">F1A0B3C45B11C97E</xref>
       </xrefs>
     </version>
   </struc>

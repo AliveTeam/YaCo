@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>6590FF142FC6392E</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>7F0D7049334D9F02</parent_id>
+      <address>8</address>
+      <userdefinedname>pTlv</userdefinedname>
+      <proto>Path_InvisibleSwitch *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>E05F94DBAFE95699</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>E06C594A2966A17D</parent_id>
+      <address>3A</address>
+      <userdefinedname>field_3A_set_off_alarm</userdefinedname>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

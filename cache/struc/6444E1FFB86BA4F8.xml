@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>6444E1FFB86BA4F8</id>
+    <version>
+      <size>0x0000000000000022</size>
+      <address>1C3</address>
+      <userdefinedname>Path_MultiSwitchController</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">5E19C1A9757AC885</xref>
+        <xref offset="0x0000000000000010">F17AD4AA924B5557</xref>
+        <xref offset="0x0000000000000012">E1D58D88CD364821</xref>
+        <xref offset="0x0000000000000014">154CFA81D81B29B7</xref>
+        <xref offset="0x0000000000000016">6753BDF4E3E74B56</xref>
+        <xref offset="0x0000000000000018">37890F6452F6B51E</xref>
+        <xref offset="0x000000000000001A">BCCD4DB8668F423F</xref>
+        <xref offset="0x000000000000001C">136DD97B86580C89</xref>
+        <xref offset="0x000000000000001E">E0033DF6E30D3A57</xref>
+        <xref offset="0x0000000000000020">0B2C8667A7522D6F</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

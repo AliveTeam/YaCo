@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7ED6B1BC0BEDB67D</id>
+    <version>
+      <size>0x000000000000001F</size>
+      <parent_id>0308E9DF63F20A1A</parent_id>
+      <address>4D6290</address>
+      <userdefinedname flags="0x00000054">MultiSwitchController::sub_4D6290</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">358F4217</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">idx</comments>
+        <valueview offset="0000000000000016" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">F015A39A2DE7D067</xref>
+        <xref offset="0x000000000000001F">91528BA143ED6F28</xref>
+        <xref offset="0x000000000000003C">1E4CC24FDB7E1E16</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -7,7 +7,8 @@
       <parent_id>7094A9FD0C1A46B8</parent_id>
       <address>8</address>
       <userdefinedname>pTlv</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>Path_MultiSwitchController *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

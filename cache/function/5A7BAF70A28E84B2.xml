@@ -6,7 +6,7 @@
       <size>0x0000000000000083</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4D60E0</address>
-      <proto>MultiSwitchController *__thiscall sub(MultiSwitchController *this, _WORD *pTlv, int tlvInfo)</proto>
+      <proto>MultiSwitchController *__thiscall sub(MultiSwitchController *this, Path_MultiSwitchController *pTlv, int tlvInfo)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">CE6D282D</signature>

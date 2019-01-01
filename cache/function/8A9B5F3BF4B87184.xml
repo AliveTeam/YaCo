@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>8A9B5F3BF4B87184</id>
+    <version>
+      <size>0x00000000000000C6</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>425180</address>
+      <proto>BaseAliveGameObject *__thiscall sub(BaseAliveGameObject *this, __int16 typeToFind, int xpos, int ypos)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6E610372</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3006F764D9066589</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000003E">F1B1D503F26365B2</xref>
+        <xref offset="0x000000000000003E" size="0x0000000000000004">6822DA25C0794D19</xref>
+        <xref offset="0x0000000000000042" size="0x0000000000000006">712AD5CE76C93F5E</xref>
+        <xref offset="0x0000000000000048" size="0x000000000000000E">0F65D497C592E2EA</xref>
+        <xref offset="0x0000000000000056" size="0x000000000000000B">B713A9DC98EA496F</xref>
+        <xref offset="0x0000000000000061" size="0x0000000000000014">79E9DF28149BD769</xref>
+        <xref offset="0x0000000000000075" size="0x0000000000000004">6D6C64D4A20BFF07</xref>
+        <xref offset="0x0000000000000079" size="0x0000000000000022">C2FACB553D0B8543</xref>
+        <xref offset="0x000000000000009B" size="0x0000000000000005">BEABCE768EFBFF71</xref>
+        <xref offset="0x00000000000000A0" size="0x0000000000000007">C0C4AFEA988A7114</xref>
+        <xref offset="0x00000000000000A7" size="0x0000000000000007">527BB08EE9AE8FD4</xref>
+        <xref offset="0x00000000000000AE" size="0x000000000000000C">051550254B78BF27</xref>
+        <xref offset="0x00000000000000BA" size="0x000000000000000C">C371C1FAA76B6422</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

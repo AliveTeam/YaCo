@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>ACEA5EF39BEDFA17</id>
+    <version>
+      <size>0x000000000000002B</size>
+      <parent_id>9C2A3F3285417AD0</parent_id>
+      <address>456750</address>
+      <userdefinedname flags="0x000000D4">Abe::State_TurnWheelLoop_456750</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C941F6C1</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">328050284FFEED48</xref>
+        <xref offset="0x000000000000002B">D33B235696852A7E</xref>
+        <xref offset="0x00000000000000F6">7214FFA1D6684DD3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

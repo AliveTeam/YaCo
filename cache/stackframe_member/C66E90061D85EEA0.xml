@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>C66E90061D85EEA0</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3006F764D9066589</parent_id>
+      <address>14</address>
+      <userdefinedname>xy</userdefinedname>
+      <proto>PSX_Point</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E62EE18DC61209D7</xref>
+      </xrefs>
+    </version>
+  </stackframe_member>
+</sigfile>

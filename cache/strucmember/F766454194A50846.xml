@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>9F96C5945F594BE1</parent_id>
       <address>104</address>
-      <userdefinedname>field_104</userdefinedname>
+      <userdefinedname>field_104_snap_to_grid</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

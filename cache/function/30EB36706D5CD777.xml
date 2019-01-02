@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>30EB36706D5CD777</id>
+    <version>
+      <size>0x0000000000000062</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>425600</address>
+      <proto>void __thiscall sub(BaseAliveGameObject *this, unsigned __int8 *pBuffer, __int16 a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">CB40C877</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A317131D180AB070</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000001A">461C1AE2D8A01E80</xref>
+        <xref offset="0x000000000000001A" size="0x0000000000000005">2AD5E7F1CF753471</xref>
+        <xref offset="0x000000000000001F" size="0x0000000000000013">E22C7FF6487DC420</xref>
+        <xref offset="0x0000000000000032" size="0x0000000000000030">E6F47BE405D7616D</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

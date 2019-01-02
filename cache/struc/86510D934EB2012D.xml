@@ -3,7 +3,7 @@
   <struc>
     <id>86510D934EB2012D</id>
     <version>
-      <size>0x000000000000001A</size>
+      <size>0x000000000000001C</size>
       <address>1C5</address>
       <userdefinedname>Path_InvisibleSwitch</userdefinedname>
       <signatures/>
@@ -14,6 +14,7 @@
         <xref offset="0x0000000000000014">D3EDDD75BDCFE043</xref>
         <xref offset="0x0000000000000016">865B603D77B307AE</xref>
         <xref offset="0x0000000000000018">A2C200E533BBEB30</xref>
+        <xref offset="0x000000000000001A">F30451FC0F9B0D29</xref>
       </xrefs>
     </version>
   </struc>

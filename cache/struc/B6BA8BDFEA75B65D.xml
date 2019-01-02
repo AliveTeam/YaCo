@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>B6BA8BDFEA75B65D</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>1C6</address>
+      <userdefinedname>TintEntry</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">6730588A9A08FBB1</xref>
+        <xref offset="0x0000000000000001">873B5CDF50E6CD86</xref>
+        <xref offset="0x0000000000000002">86F52F4DDC7F9ADA</xref>
+        <xref offset="0x0000000000000003">F9DAB0FDE5E0E43D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

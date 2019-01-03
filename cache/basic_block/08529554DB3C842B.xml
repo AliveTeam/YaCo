@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>08529554DB3C842B</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>1BA96D2727F1F523</parent_id>
+      <address>4ACE60</address>
+      <userdefinedname flags="0x00000054">Shadow::Render_4ACE60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9AEF68A1</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000E">EA305C7C9A095DFD</xref>
+        <xref offset="0x00000000000000C0">440E3FEABD03ECAB</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

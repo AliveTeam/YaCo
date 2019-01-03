@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>0A45FFB629361D6D</parent_id>
       <address>8</address>
-      <userdefinedname>field_8</userdefinedname>
+      <userdefinedname>field_8_xpos</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

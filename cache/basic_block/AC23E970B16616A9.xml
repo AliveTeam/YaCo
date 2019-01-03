@@ -6,7 +6,7 @@
       <size>0x000000000000000B</size>
       <parent_id>6D11EC6F0BFFE402</parent_id>
       <address>4D7200</address>
-      <userdefinedname flags="0x00000054">Factory_Shadow_4D7200</userdefinedname>
+      <userdefinedname flags="0x00000054">Factory_ShadowZone_4D7200</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">448ED0FB</signature>
       </signatures>

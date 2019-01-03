@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>16059D1E8CAD32C9</id>
+    <version>
+      <size>0x0000000000000034</size>
+      <parent_id>0562D94F46EA5A4F</parent_id>
+      <address>49FD70</address>
+      <userdefinedname flags="0x000000D4">RollingRock::vsub_49FD70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5480655B</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000002C" type="nonrepeatable_comment">switch 5 cases </comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">B230A99FCCC3A082</xref>
+        <xref offset="0x0000000000000034">592BB2995A4A1773</xref>
+        <xref offset="0x0000000000000750">69A64ED79E0DD563</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

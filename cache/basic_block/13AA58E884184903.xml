@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>13AA58E884184903</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>AEAEE190020EE6EE</parent_id>
+      <address>463FD0</address>
+      <userdefinedname flags="0x00000054">Class_545E84::sub_463FD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">77001247</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000B">28E5243A628CBC61</xref>
+        <xref offset="0x0000000000000011">27C11E821B6DBE3E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

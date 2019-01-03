@@ -6,6 +6,7 @@
       <size>0x0000000000000068</size>
       <parent_id>DD3E98BCE1B0466C</parent_id>
       <address>463E90</address>
+      <userdefinedname flags="0x00000054">Class_545E84::sub_463E90</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">6BD5046F</signature>
       </signatures>

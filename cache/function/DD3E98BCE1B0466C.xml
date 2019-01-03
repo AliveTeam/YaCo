@@ -6,7 +6,7 @@
       <size>0x0000000000000068</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>463E90</address>
-      <proto>BaseGameObject *__thiscall sub(Class_545E84 *this)</proto>
+      <proto>Class_545E84 *__thiscall sub(Class_545E84 *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">88548BAD</signature>

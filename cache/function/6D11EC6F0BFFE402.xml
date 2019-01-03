@@ -6,7 +6,7 @@
       <size>0x0000000000000036</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4D7200</address>
-      <proto>void __cdecl sub(int pTlv, int a2, int tlvInfo, __int16 loadmode)</proto>
+      <proto>void __cdecl sub(int pTlv, int pPath, int tlvInfo, __int16 loadmode)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">BC87A723</signature>

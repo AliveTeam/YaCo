@@ -6,7 +6,7 @@
       <size>0x000000000000006B</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>463BB0</address>
-      <proto>void __thiscall sub(_DWORD this)</proto>
+      <proto>void __thiscall sub(ShadowZone *this)</proto>
       <flags>0x440</flags>
       <signatures>
         <signature algo="crc32" method="invariants">BF74A504</signature>

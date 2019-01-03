@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>3E97762F9551750E</id>
+    <id>A9295572B7D05F35</id>
     <version>
       <size>0x0000000000000002</size>
-      <parent_id>3CB67CE0B4181E3A</parent_id>
-      <address>32</address>
-      <userdefinedname>field_32_ypos</userdefinedname>
+      <parent_id>E6DE99894532180F</parent_id>
+      <address>10</address>
+      <userdefinedname>field_10_centre_w</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

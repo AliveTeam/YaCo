@@ -6,8 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>7948D7E39FCA71E9</parent_id>
       <address>1C</address>
-      <userdefinedname>arg_0</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>pTlv</userdefinedname>
+      <proto>Path_ShadowZone *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

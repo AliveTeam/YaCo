@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>B917671127227C4C</parent_id>
       <address>34</address>
-      <userdefinedname>field_34_timer</userdefinedname>
+      <userdefinedname>field_34_last_switch_on_time</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

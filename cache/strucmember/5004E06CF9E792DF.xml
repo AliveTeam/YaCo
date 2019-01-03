@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>B917671127227C4C</parent_id>
       <address>3C</address>
-      <userdefinedname>field_3C</userdefinedname>
+      <userdefinedname>field_3C_delay</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

@@ -3,7 +3,7 @@
   <struc>
     <id>6444E1FFB86BA4F8</id>
     <version>
-      <size>0x0000000000000022</size>
+      <size>0x0000000000000024</size>
       <address>1C3</address>
       <userdefinedname>Path_MultiSwitchController</userdefinedname>
       <signatures/>
@@ -18,6 +18,7 @@
         <xref offset="0x000000000000001C">136DD97B86580C89</xref>
         <xref offset="0x000000000000001E">E0033DF6E30D3A57</xref>
         <xref offset="0x0000000000000020">0B2C8667A7522D6F</xref>
+        <xref offset="0x0000000000000022">EAE1DF4C4F58896E</xref>
       </xrefs>
     </version>
   </struc>

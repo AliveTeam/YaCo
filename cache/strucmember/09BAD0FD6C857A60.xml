@@ -3,11 +3,12 @@
   <strucmember>
     <id>09BAD0FD6C857A60</id>
     <version>
-      <size>0x0000000000000001</size>
+      <size>0x0000000000000002</size>
       <parent_id>E6DE99894532180F</parent_id>
       <address>16</address>
-      <userdefinedname>field_16_b1</userdefinedname>
-      <flags>0x400</flags>
+      <userdefinedname>field_16_g</userdefinedname>
+      <proto>unsigned __int16</proto>
+      <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
     </version>

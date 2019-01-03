@@ -6,7 +6,7 @@
       <size>0x0000000000000018</size>
       <parent_id>2ECB2B815F59F4B0</parent_id>
       <address>463AA0</address>
-      <userdefinedname flags="0x00000054">ShadowZone::sub_463AA0</userdefinedname>
+      <userdefinedname flags="0x00000054">ShadowZone::GetColourAmount_463AA0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">2B65E21D</signature>
       </signatures>

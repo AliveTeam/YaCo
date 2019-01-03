@@ -6,7 +6,7 @@
       <size>0x0000000000000009</size>
       <parent_id>26CC611CF917A865</parent_id>
       <address>463C70</address>
-      <userdefinedname flags="0x00000054">ShadowZone::sub_463C70</userdefinedname>
+      <userdefinedname flags="0x00000054">ShadowZone::ApplysToScale_463C70</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">26DBEDEB</signature>
       </signatures>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2547AF41DC4AB6FC</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>ED5ECF0E6D91AB22</parent_id>
+      <address>463C40</address>
+      <userdefinedname flags="0x00000054">ShadowZone::vUpdate_463C40</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CEBD018E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">idx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">BDE9AC4141BD970D</xref>
+        <xref offset="0x0000000000000011">F9B05D1D53025D34</xref>
+        <xref offset="0x0000000000000015">38A4B9AF4D191606</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

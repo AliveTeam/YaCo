@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A1F2AAA053F0A56F</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>2ECB2B815F59F4B0</parent_id>
+      <address>463AA0</address>
+      <userdefinedname flags="0x00000054">ShadowZone::sub_463AA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">2B65E21D</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000018">EDCB9CA304DC6E59</xref>
+        <xref offset="0x000000000000001C">FE4E0C270D981D1A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

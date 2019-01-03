@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7DEA748444BC1F31</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>26CC611CF917A865</parent_id>
+      <address>463C70</address>
+      <userdefinedname flags="0x00000054">ShadowZone::sub_463C70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">26DBEDEB</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000009">FBA08316DFEE237A</xref>
+        <xref offset="0x0000000000000010">2A97912E1B257992</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8C3803BD4DB5CBC5</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>BA9A5ECBD73E479B</parent_id>
+      <address>463A70</address>
+      <userdefinedname flags="0x00000054">ShadowZone::vdtor_463A70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">426619A86D3FAE53</xref>
+        <xref offset="0x000000000000000F">350C123685194E37</xref>
+        <xref offset="0x0000000000000018">9987784121744C18</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

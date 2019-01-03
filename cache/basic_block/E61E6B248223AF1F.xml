@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E61E6B248223AF1F</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>E0CB93D2F7E41A0F</parent_id>
+      <address>463CC0</address>
+      <userdefinedname flags="0x00000054">ShadowZone::vScreenChanged_463CC0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">48D6E76F</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

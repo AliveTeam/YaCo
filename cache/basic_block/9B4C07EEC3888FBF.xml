@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9B4C07EEC3888FBF</id>
+    <version>
+      <size>0x0000000000000016</size>
+      <parent_id>7E22E54E4A716F6C</parent_id>
+      <address>461000</address>
+      <userdefinedname flags="0x000000D4">LiftPoint::sub_461000</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">841A1C56</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

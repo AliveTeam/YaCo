@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0AAE0B95BEE7A5EF</id>
+    <version>
+      <size>0x0000000000000061</size>
+      <parent_id>CB522B948E446E40</parent_id>
+      <address>462C80</address>
+      <userdefinedname flags="0x00000054">LiftPoint::Init_462C80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B7882587</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002A" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000031" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000039" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">83733319CF2FEC26</xref>
+        <xref offset="0x000000000000002A">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000039">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000061">E939F5EC1A4CFAD9</xref>
+        <xref offset="0x00000000000002CD">74D76B285D3C243F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

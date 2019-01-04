@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B580B456C8C9A0CE</id>
+    <version>
+      <size>0x0000000000000059</size>
+      <parent_id>FE3D4EBA713E4DF4</parent_id>
+      <address>4624E0</address>
+      <userdefinedname flags="0x00000054">LiftPoint::dtor_4624E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5ECE805F</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000002A" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000002F" type="nonrepeatable_comment">idToFind</comments>
+        <comments offset="0000000000000045" type="nonrepeatable_comment">idToFind</comments>
+        <comments offset="0000000000000046" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001A" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002A" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000030" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000046" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">C4D988E662F1B738</xref>
+        <xref offset="0x000000000000001E">36BF87E0EC00C66D</xref>
+        <xref offset="0x000000000000002A">D8A28DFE547A3378</xref>
+        <xref offset="0x0000000000000038">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000046">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000004B">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000059">758A4821CF9C249B</xref>
+        <xref offset="0x0000000000000067">70E58043D9F434D3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>7E22E54E4A716F6C</id>
+    <version>
+      <size>0x0000000000000016</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>461000</address>
+      <proto>LiftPoint *__stdcall sub(_DWORD a1)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">841A1C56</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">194380F7E84747C8</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000016">9B4C07EEC3888FBF</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

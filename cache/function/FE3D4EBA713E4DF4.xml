@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>FE3D4EBA713E4DF4</id>
+    <version>
+      <size>0x000000000000015E</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>4624E0</address>
+      <proto>void __thiscall sub(LiftPoint *this)</proto>
+      <flags>0x440</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">1B64DBF2</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">F6E75FCC42AB8ACF</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000059">B580B456C8C9A0CE</xref>
+        <xref offset="0x0000000000000059" size="0x000000000000000E">758A4821CF9C249B</xref>
+        <xref offset="0x0000000000000067" size="0x0000000000000004">70E58043D9F434D3</xref>
+        <xref offset="0x000000000000006B" size="0x000000000000000E">ADB93A2BDE4175CA</xref>
+        <xref offset="0x0000000000000079" size="0x0000000000000084">702B01EBB51D2232</xref>
+        <xref offset="0x00000000000000FD" size="0x0000000000000005">930F85BC8C55BADB</xref>
+        <xref offset="0x0000000000000102" size="0x0000000000000018">DDE4789FB49C3294</xref>
+        <xref offset="0x000000000000011A" size="0x000000000000000F">57F810DA6ECA52E5</xref>
+        <xref offset="0x0000000000000129" size="0x0000000000000035">1429F6783C1430E7</xref>
+        <xref offset="0x00000000000DD8D0" size="0x0000000000000008">C902555CAF284F97</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

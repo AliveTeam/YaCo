@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>42814CFA8A7FF4DD</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>7278D917F3CFB3C9</parent_id>
+      <address>411580</address>
+      <userdefinedname flags="0x00000054">Bone::vdtor_411580</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">77D42E79F98B9FF7</xref>
+        <xref offset="0x000000000000000F">0DD8F468DFD49175</xref>
+        <xref offset="0x0000000000000018">D2FC0BB3E3DBE280</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

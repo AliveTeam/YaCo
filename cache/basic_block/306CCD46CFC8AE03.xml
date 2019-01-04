@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>306CCD46CFC8AE03</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>B0EA7EE580DE2356</parent_id>
+      <address>411530</address>
+      <userdefinedname flags="0x00000054">Bone::vsub_411530</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B68F894B</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000C">6BBEDE043D599292</xref>
+        <xref offset="0x0000000000000018">1B22CB7B8EAD5662</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

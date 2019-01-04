@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4537355CC3018FC8</id>
+    <version>
+      <size>0x00000000000000DE</size>
+      <parent_id>A1E6939E0B8BCF5F</parent_id>
+      <address>412ED0</address>
+      <userdefinedname flags="0x00000054">Bone::VGetSaveState_412ED0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BCFE63FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x00000000000000DE">646F9C1D2CDCB780</xref>
+        <xref offset="0x00000000000000E7">919A562A1872ACD0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F6A79F6AB503ABD3</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>729190BD181159AD</parent_id>
+      <address>411510</address>
+      <userdefinedname flags="0x00000054">Bone::vsub_411510</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">884A6C1C</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

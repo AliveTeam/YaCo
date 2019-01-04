@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B68630B2DEE14D2B</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>26EA0028D706C705</parent_id>
+      <address>421F70</address>
+      <userdefinedname flags="0x000000D4">ElectricWall::vdtor_421F70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">A3AB609443427E99</xref>
+        <xref offset="0x000000000000000F">67DAE2DE8054C8B7</xref>
+        <xref offset="0x0000000000000018">DA20C5EC59C05EA1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

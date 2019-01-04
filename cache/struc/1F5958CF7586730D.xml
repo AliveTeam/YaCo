@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>1F5958CF7586730D</id>
+    <version>
+      <size>0x0000000000000100</size>
+      <address>1CA</address>
+      <userdefinedname>ElectricWall</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">6875392C067B5872</xref>
+        <xref offset="0x00000000000000E4">4141D1AEF89588BB</xref>
+        <xref offset="0x00000000000000F4">83B1A5CBBFE2419E</xref>
+        <xref offset="0x00000000000000F8">6C827316ACE0302B</xref>
+        <xref offset="0x00000000000000FA">906AADF3E177E317</xref>
+        <xref offset="0x00000000000000FC">745F301FA7523068</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

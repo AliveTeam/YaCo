@@ -6,9 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>0A45FFB629361D6D</parent_id>
       <address>C</address>
-      <userdefinedname>field_C_pRect</userdefinedname>
-      <proto>PSX_RECT *</proto>
-      <flags>0x25500400</flags>
+      <userdefinedname>field_C_ypos</userdefinedname>
+      <proto>int</proto>
+      <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
     </version>

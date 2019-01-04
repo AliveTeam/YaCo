@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>79D255C2AE41DD61</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>1CC</address>
+      <userdefinedname>Path_SlamDoor</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">FE3380E1AA42E6F3</xref>
+        <xref offset="0x0000000000000010">6E5A31D6DC109463</xref>
+        <xref offset="0x0000000000000012">4C0FF242CCFEDDDC</xref>
+        <xref offset="0x0000000000000014">F454F917FB938108</xref>
+        <xref offset="0x0000000000000016">2D2FE473DCE14817</xref>
+        <xref offset="0x0000000000000018">5816C955FE2F3C9F</xref>
+        <xref offset="0x000000000000001A">818C46476F814AA1</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

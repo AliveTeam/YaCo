@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>4B19CE41E87C6662</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>AEFB67F0B2FE17CF</parent_id>
+      <address>34</address>
+      <userdefinedname>pTlv</userdefinedname>
+      <proto>Path_SlamDoor *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

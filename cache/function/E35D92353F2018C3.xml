@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>E35D92353F2018C3</id>
+    <version>
+      <size>0x000000000000003D</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>461960</address>
+      <proto>__int16 __thiscall sub(LiftPoint *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">C36D3896</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">79685D6BFE0B6E9C</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000F">958AF4EEA3369311</xref>
+        <xref offset="0x000000000000000F" size="0x0000000000000009">BFAE4D3BDD7F7837</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000007">0F1A3A768CAE3EB9</xref>
+        <xref offset="0x000000000000001F" size="0x0000000000000002">2F6A29234F01A20D</xref>
+        <xref offset="0x0000000000000021" size="0x000000000000001C">09BB7242AEFD843B</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

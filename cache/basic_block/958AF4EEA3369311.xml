@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>958AF4EEA3369311</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>E35D92353F2018C3</parent_id>
+      <address>461960</address>
+      <userdefinedname flags="0x000000D4">LiftPoint::vsub_461960</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B2FC15A7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000F">BFAE4D3BDD7F7837</xref>
+        <xref offset="0x000000000000001F">2F6A29234F01A20D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

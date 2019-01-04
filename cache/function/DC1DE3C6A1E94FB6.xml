@@ -6,6 +6,7 @@
       <size>0x0000000000000093</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>463020</address>
+      <proto>signed int __thiscall sub(LiftPoint *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">90D8EE59</signature>

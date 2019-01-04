@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>94F8590F3DA3B7AB</id>
+    <id>718D54A5720135D4</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>ABA5867FF5D84415</parent_id>
-      <address>12C</address>
-      <userdefinedname>field_12C_tlvInfo</userdefinedname>
+      <parent_id>75D992FCFADD92F2</parent_id>
+      <address>8</address>
+      <userdefinedname>field_8_frameTableOffset</userdefinedname>
+      <proto>int</proto>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

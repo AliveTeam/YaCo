@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>4F9AC13C490B5E8A</id>
+    <id>1AF009E150CA9009</id>
     <version>
       <size>0x0000000000000002</size>
-      <parent_id>F97B16AFC6ADECF6</parent_id>
+      <parent_id>75D992FCFADD92F2</parent_id>
       <address>E</address>
-      <userdefinedname>field_E</userdefinedname>
-      <proto>__int16[1]</proto>
+      <userdefinedname>field_E_maxW</userdefinedname>
+      <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

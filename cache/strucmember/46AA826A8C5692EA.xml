@@ -6,8 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>ABA5867FF5D84415</parent_id>
       <address>120</address>
-      <userdefinedname>field_120</userdefinedname>
-      <proto>PSX_RECT *</proto>
+      <userdefinedname>field_120_pCollisionLine_5_1</userdefinedname>
+      <proto>PathLine *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1B2EE0031E528213</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>CFC8940639E0D6AE</parent_id>
+      <address>4B0530</address>
+      <userdefinedname flags="0x00000054">SlamDoor::sub_4B0530</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">8C482FF2</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000022" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000032">E58E9C4179145D16</xref>
+        <xref offset="0x0000000000000052">C9DE203E5ECE502B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

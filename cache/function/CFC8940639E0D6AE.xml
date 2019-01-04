@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>CFC8940639E0D6AE</id>
+    <version>
+      <size>0x00000000000000BE</size>
+      <parent_id>58A1898A5BF9FAD9</parent_id>
+      <address>4B0530</address>
+      <proto>void __thiscall sub(SlamDoor *this, BaseAnimatedWithPhysicsGameObject *pObj, __int16 objXPos, __int16 objWidth)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">4CF2D5D8</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">9E9364F677790431</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000032">1B2EE0031E528213</xref>
+        <xref offset="0x0000000000000032" size="0x0000000000000020">E58E9C4179145D16</xref>
+        <xref offset="0x0000000000000052" size="0x0000000000000023">C9DE203E5ECE502B</xref>
+        <xref offset="0x0000000000000075" size="0x0000000000000010">FD0BAC1C6E8642D2</xref>
+        <xref offset="0x0000000000000085" size="0x0000000000000006">1CEA98044E05208C</xref>
+        <xref offset="0x000000000000008B" size="0x0000000000000006">9FFB65A260597D83</xref>
+        <xref offset="0x0000000000000091" size="0x0000000000000008">7979469A0C1C58AD</xref>
+        <xref offset="0x0000000000000099" size="0x0000000000000007">4CF6F00FA582961D</xref>
+        <xref offset="0x00000000000000A0" size="0x0000000000000018">1FE3BBB4DDC70893</xref>
+        <xref offset="0x00000000000000B8" size="0x0000000000000006">8770830AB8E84DBC</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

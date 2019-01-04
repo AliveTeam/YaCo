@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>514B1B45E01B0F14</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>9E9364F677790431</parent_id>
+      <address>10</address>
+      <userdefinedname>pObj</userdefinedname>
+      <proto>BaseAnimatedWithPhysicsGameObject *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

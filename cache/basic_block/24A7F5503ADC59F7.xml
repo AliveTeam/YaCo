@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>24A7F5503ADC59F7</id>
+    <version>
+      <size>0x00000000000000E2</size>
+      <parent_id>DEFFF2E08C767632</parent_id>
+      <address>4637D0</address>
+      <userdefinedname flags="0x000000D4">LiftPoint::vGetSaveState_4637D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E3E88C73</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

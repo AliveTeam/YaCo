@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FEA5372EEC1ECB87</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>90D94600272CCA3A</parent_id>
+      <address>49EF10</address>
+      <userdefinedname flags="0x00000054">Rock::sub_49EF10</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">7DAE69EE</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000005" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000011">7921C87C1050423D</xref>
+        <xref offset="0x000000000000001D">D41ED1CDB3C639C3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

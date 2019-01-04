@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8657A4E6B177E51B</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>8E0FCA6911A32D6F</parent_id>
+      <address>4619D0</address>
+      <userdefinedname flags="0x00000054">LiftPoint::vdtor_4619D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">B580B456C8C9A0CE</xref>
+        <xref offset="0x000000000000000F">A8058ECCC34492A1</xref>
+        <xref offset="0x0000000000000018">9CF4B1BE17048054</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

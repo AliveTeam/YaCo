@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>533652C3317F7138</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <parent_id>9A2CAD19E90A550C</parent_id>
+      <address>16C</address>
+      <userdefinedname>field_16C</userdefinedname>
+      <proto>Prim_SetTPage[2]</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">CD0A6CE5D199132B</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

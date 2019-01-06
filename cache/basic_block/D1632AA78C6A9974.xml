@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D1632AA78C6A9974</id>
+    <version>
+      <size>0x000000000000004F</size>
+      <parent_id>98E317EECBBC2DF4</parent_id>
+      <address>4FEA65</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">E41E6AE5</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000000">stack</valueview>
+        <valueview offset="000000000000000E" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000012" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000018" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002A" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000030" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000034" operand="00000001">stack</valueview>
+        <valueview offset="000000000000003A" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000046" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001C">7F7CCA8E657BC174</xref>
+        <xref offset="0x0000000000000021">C1BC504FE980FC55</xref>
+        <xref offset="0x000000000000003E">7F7CCA8E657BC174</xref>
+        <xref offset="0x0000000000000043">C1BC504FE980FC55</xref>
+        <xref offset="0x0000000000000053">B4AB96124D4B2135</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

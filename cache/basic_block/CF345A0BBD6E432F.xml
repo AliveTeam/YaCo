@@ -11,6 +11,7 @@
         <signature algo="crc32" method="invariants">757BC12A</signature>
       </signatures>
       <offsets>
+        <valueview offset="0000000000000000" operand="00000001">unsigneddecimal</valueview>
         <valueview offset="0000000000000007" operand="00000001">stack</valueview>
         <valueview offset="0000000000000015" operand="00000000">stack</valueview>
         <valueview offset="000000000000001C" operand="00000000">stack</valueview>
@@ -30,6 +31,15 @@
         <valueview offset="0000000000000075" operand="00000000">stack</valueview>
       </offsets>
       <xrefs>
+        <xref offset="0x0000000000000010" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x0000000000000012" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x0000000000000019" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x0000000000000020" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x0000000000000027" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x000000000000002E" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x0000000000000035" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x000000000000003C" operand="0x0000000000000001">272F43FEB3287F49</xref>
+        <xref offset="0x0000000000000044" operand="0x0000000000000001">272F43FEB3287F49</xref>
         <xref offset="0x000000000000005F">913AB8969D0D86E5</xref>
         <xref offset="0x0000000000000086">5A3536E88A492156</xref>
       </xrefs>

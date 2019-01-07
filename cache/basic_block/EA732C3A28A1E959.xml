@@ -6,7 +6,7 @@
       <size>0x0000000000000050</size>
       <parent_id>82A4E3FD8884E6B9</parent_id>
       <address>421060</address>
-      <userdefinedname flags="0x000000D4">Grinder::sub_421060</userdefinedname>
+      <userdefinedname flags="0x00000054">Grinder::DamageTouchingObjects_421060</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">852D2634</signature>
       </signatures>

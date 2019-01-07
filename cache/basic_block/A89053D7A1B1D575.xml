@@ -6,7 +6,7 @@
       <size>0x000000000000004F</size>
       <parent_id>6D1BD8F742C97A06</parent_id>
       <address>4206D0</address>
-      <userdefinedname flags="0x000000D4">Grinder::sub_4206D0</userdefinedname>
+      <userdefinedname flags="0x00000054">Grinder::EmitSparks_4206D0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">1A1AD6E7</signature>
       </signatures>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B8FEC56FF33B2FAA</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>EF9F6E6FF2A3F3EE</parent_id>
+      <address>420D8F</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">B02D6538</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">frameTableOffset</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">DA2D4C2CBA31AB3F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

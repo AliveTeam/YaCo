@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>51964F5945E7420E</id>
+    <version>
+      <size>0x00000000000000B6</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>420B60</address>
+      <proto>void __thiscall sub(Grinder *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">7D7EB7A6</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">46C7469046A43D90</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000035">60BB83D27B9F2C59</xref>
+        <xref offset="0x0000000000000035" size="0x0000000000000013">450CC7959BCA1CDB</xref>
+        <xref offset="0x0000000000000048" size="0x0000000000000009">7F02DD194750B064</xref>
+        <xref offset="0x0000000000000051" size="0x000000000000001F">009C9AB11716D847</xref>
+        <xref offset="0x0000000000000070" size="0x000000000000000F">8711D36CCB205E97</xref>
+        <xref offset="0x000000000000007F" size="0x000000000000000D">36F88488E0268175</xref>
+        <xref offset="0x000000000000008C" size="0x000000000000002A">F99BB7D018804536</xref>
+        <xref offset="0x000000000011DCA0" size="0x0000000000000008">23F5303C22E4D7E6</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

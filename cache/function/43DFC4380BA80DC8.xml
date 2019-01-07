@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>43DFC4380BA80DC8</id>
+    <version>
+      <size>0x00000000000000B0</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>4213D0</address>
+      <proto>void __thiscall sub(Grinder *this, int **pOt)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">E99D6A6A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">56003B6492988E5F</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000032">B95D33E55BBD5889</xref>
+        <xref offset="0x0000000000000032" size="0x000000000000000C">F7CAB960DA9CAC86</xref>
+        <xref offset="0x000000000000003E" size="0x0000000000000003">4C9020C24F7B7DDA</xref>
+        <xref offset="0x0000000000000041" size="0x0000000000000003">6562A282008C62BE</xref>
+        <xref offset="0x0000000000000044" size="0x0000000000000024">40569DA5EBBFAFD6</xref>
+        <xref offset="0x0000000000000068" size="0x0000000000000024">A2FE3AC010BA71B7</xref>
+        <xref offset="0x000000000000008C" size="0x0000000000000014">3BF66E3EE3DA2BF4</xref>
+        <xref offset="0x00000000000000A0" size="0x000000000000000C">C1AAF97B20487192</xref>
+        <xref offset="0x00000000000000AC" size="0x0000000000000004">3FC770A9C34D9AD6</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>1D65C191BC093601</id>
+    <version>
+      <size>0x00000000000000C9</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>4214B0</address>
+      <proto>void __thiscall sub(Grinder *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">8E85B0BE</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">D61EE35C4AA57470</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000E">503939F3C91C31D7</xref>
+        <xref offset="0x000000000000000E" size="0x0000000000000009">92C4B0C0928179DA</xref>
+        <xref offset="0x0000000000000017" size="0x0000000000000014">BAFF9AFA43D7EE98</xref>
+        <xref offset="0x000000000000002B" size="0x000000000000000A">213E2A0228C99042</xref>
+        <xref offset="0x0000000000000035" size="0x000000000000000A">C0BE67297733305B</xref>
+        <xref offset="0x000000000000003F" size="0x0000000000000013">923B12F960AA23BD</xref>
+        <xref offset="0x0000000000000052" size="0x0000000000000010">EA3B887C26455D8F</xref>
+        <xref offset="0x0000000000000062" size="0x0000000000000010">7AE0A484A1DFE7B6</xref>
+        <xref offset="0x0000000000000072" size="0x000000000000001A">F26F3D63AD8F1949</xref>
+        <xref offset="0x000000000000008C" size="0x0000000000000002">7298E5D31A3E0CFC</xref>
+        <xref offset="0x000000000000008E" size="0x0000000000000007">1A6D266D60CE68B2</xref>
+        <xref offset="0x0000000000000095" size="0x0000000000000014">B09CB5EA3DB712D5</xref>
+        <xref offset="0x00000000000000A9" size="0x0000000000000002">FEA839EDFE98280F</xref>
+        <xref offset="0x00000000000000AB" size="0x0000000000000007">0D5CA82FBD368B41</xref>
+        <xref offset="0x00000000000000B2" size="0x0000000000000010">0EF5810E9F3C00F2</xref>
+        <xref offset="0x00000000000000C2" size="0x0000000000000007">12C5DB5224562AF1</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

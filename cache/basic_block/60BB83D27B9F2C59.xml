@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>60BB83D27B9F2C59</id>
+    <version>
+      <size>0x0000000000000035</size>
+      <parent_id>51964F5945E7420E</parent_id>
+      <address>420B60</address>
+      <userdefinedname flags="0x000000D4">Grinder::dtor_420B60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">59B1B8C2</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000029" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">BFB960E21C906419</xref>
+        <xref offset="0x000000000000001D">89AB7C9BDA0D840D</xref>
+        <xref offset="0x0000000000000035">450CC7959BCA1CDB</xref>
+        <xref offset="0x0000000000000048">7F02DD194750B064</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

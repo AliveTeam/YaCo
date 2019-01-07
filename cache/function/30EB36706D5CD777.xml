@@ -6,7 +6,7 @@
       <size>0x0000000000000062</size>
       <parent_id>867AEA9E07CB833F</parent_id>
       <address>425600</address>
-      <proto>void __thiscall sub(BaseAliveGameObject *this, unsigned __int8 *pBuffer, __int16 a3)</proto>
+      <proto>void __thiscall sub(BaseAnimatedWithPhysicsGameObject *this, unsigned __int8 *pBuffer, __int16 a3)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">CB40C877</signature>

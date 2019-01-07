@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>503939F3C91C31D7</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>1D65C191BC093601</parent_id>
+      <address>4214B0</address>
+      <userdefinedname flags="0x000000D4">Grinder::vScreenChanged_4214B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1F9D4E97</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000E">92C4B0C0928179DA</xref>
+        <xref offset="0x0000000000000035">C0BE67297733305B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

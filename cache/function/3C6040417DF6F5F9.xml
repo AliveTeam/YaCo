@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3C6040417DF6F5F9</id>
+    <version>
+      <size>0x0000000000000022</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>4215C0</address>
+      <proto>void __thiscall sub(Grinder *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">1AC054FA</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">BD9EDA4ED5D26CD1</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000D">797546F3ADDF3BCF</xref>
+        <xref offset="0x000000000000000D" size="0x0000000000000013">BC816D662EE8266C</xref>
+        <xref offset="0x0000000000000020" size="0x0000000000000002">1B41741F7BF91D68</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

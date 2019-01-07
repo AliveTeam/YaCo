@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3DBB69EDF66602FB</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>7AAC585ECF450A62</parent_id>
+      <address>4206A0</address>
+      <userdefinedname flags="0x000000D4">Grinder::vdtor_4206A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">60BB83D27B9F2C59</xref>
+        <xref offset="0x000000000000000F">1EF84017F600ADAE</xref>
+        <xref offset="0x0000000000000018">12E0A995D43AA436</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

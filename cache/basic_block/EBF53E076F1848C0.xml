@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>EBF53E076F1848C0</id>
+    <version>
+      <size>0x0000000000000044</size>
+      <parent_id>7CE743D805EC44E3</parent_id>
+      <address>424C31</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">DC39C916</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">b</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">g</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">r</comments>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">scale</comments>
+        <comments offset="0000000000000028" type="nonrepeatable_comment">ypos</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">xpos</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001C" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000003C">1769975DFF08328D</xref>
+        <xref offset="0x0000000000000044">81C412F5BB51CE47</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

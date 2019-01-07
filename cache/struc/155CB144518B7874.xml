@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>155CB144518B7874</id>
+    <version>
+      <size>0x000000000000012C</size>
+      <address>1CE</address>
+      <userdefinedname>Grinder</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F9423B1AC9CCB081</xref>
+        <xref offset="0x00000000000000E4">A39C1967F93E7B80</xref>
+        <xref offset="0x00000000000000E8">72532C5CC54F638B</xref>
+        <xref offset="0x00000000000000EC">C3F6FF18322D2975</xref>
+        <xref offset="0x00000000000000F0">DFA7C35023E6A520</xref>
+        <xref offset="0x00000000000000F4">E365E1945F494D87</xref>
+        <xref offset="0x00000000000000F8">170B35789612DCC3</xref>
+        <xref offset="0x00000000000000FC">87701D1B420EF2A3</xref>
+        <xref offset="0x0000000000000100">E52C798457066955</xref>
+        <xref offset="0x0000000000000104">3F60A52DAE3596F6</xref>
+        <xref offset="0x0000000000000108">FA774DDE44BEB331</xref>
+        <xref offset="0x000000000000010C">8AC7C29381614D4B</xref>
+        <xref offset="0x0000000000000110">828125FDEB5D268E</xref>
+        <xref offset="0x0000000000000114">7D26DCCD0CEB51BF</xref>
+        <xref offset="0x0000000000000118">6E5560DE87D60A5B</xref>
+        <xref offset="0x000000000000011C">10E5B0811252A2F9</xref>
+        <xref offset="0x0000000000000120">3E469211081DDFE4</xref>
+        <xref offset="0x0000000000000124">FE8B362B29AC9BE3</xref>
+        <xref offset="0x0000000000000128">F7CF9D76B5BEA2BC</xref>
+        <xref offset="0x000000000000012A">9084936E6FBBB452</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

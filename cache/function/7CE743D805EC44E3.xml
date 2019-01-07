@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>7CE743D805EC44E3</id>
+    <version>
+      <size>0x00000000000001DF</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>424B90</address>
+      <proto>void __thiscall sub(BaseAnimatedWithPhysicsGameObject *this, int **pOrderingTable)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">F70348E9</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">EF6793774A6F85ED</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">DC347E7EC978AD74</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000018">3E7FBF3736AD8D95</xref>
+        <xref offset="0x0000000000000029" size="0x0000000000000019">686543FE0B1DA71E</xref>
+        <xref offset="0x0000000000000042" size="0x0000000000000010">DCBFA00024BDA5C8</xref>
+        <xref offset="0x0000000000000052" size="0x000000000000004F">261EB802C63B335F</xref>
+        <xref offset="0x00000000000000A1" size="0x0000000000000044">EBF53E076F1848C0</xref>
+        <xref offset="0x00000000000000E5" size="0x00000000000000BF">81C412F5BB51CE47</xref>
+        <xref offset="0x00000000000001A4" size="0x0000000000000033">7525994529FAA4C3</xref>
+        <xref offset="0x00000000000001D7" size="0x0000000000000008">D5ED913E576AA235</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

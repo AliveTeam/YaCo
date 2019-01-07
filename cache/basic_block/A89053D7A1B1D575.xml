@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A89053D7A1B1D575</id>
+    <version>
+      <size>0x000000000000004F</size>
+      <parent_id>6D1BD8F742C97A06</parent_id>
+      <address>4206D0</address>
+      <userdefinedname flags="0x000000D4">Grinder::sub_4206D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1A1AD6E7</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">width</comments>
+        <comments offset="0000000000000031" type="nonrepeatable_comment">ypos</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">xpos</comments>
+        <comments offset="000000000000003A" type="nonrepeatable_comment">path</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">level</comments>
+        <comments offset="000000000000003C" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000003C" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">AF4B69318B4CC6E2</xref>
+        <xref offset="0x000000000000003C">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000041">0C4B91B73FB67A24</xref>
+        <xref offset="0x000000000000004F">1CA89260CF73EB58</xref>
+        <xref offset="0x0000000000000384">380F133E000059CC</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

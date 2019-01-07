@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B44D2FAB055694BC</id>
+    <version>
+      <size>0x0000000000000046</size>
+      <parent_id>16E6A53B3BCE3F02</parent_id>
+      <address>4217B0</address>
+      <userdefinedname flags="0x000000D4">Grinder::vGetSaveState_4217B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BE1C2174</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

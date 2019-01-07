@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DC347E7EC978AD74</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>7CE743D805EC44E3</parent_id>
+      <address>424B90</address>
+      <userdefinedname flags="0x000000D4">BaseAnimatedWithPhysicsGameObject::Render_424B90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">71A35035</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">a3</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000011">3E7FBF3736AD8D95</xref>
+        <xref offset="0x00000000000001D7">D5ED913E576AA235</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

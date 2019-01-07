@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>115EB31ACCE919F8</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>EF9F6E6FF2A3F3EE</parent_id>
+      <address>420C50</address>
+      <userdefinedname flags="0x000000D4">Grinder::vUpdate_420C50</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">DE0FC529</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000006" type="nonrepeatable_comment">idx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">BDE9AC4141BD970D</xref>
+        <xref offset="0x0000000000000014">04D532719BE717C2</xref>
+        <xref offset="0x0000000000000018">F693B59FF1B0D0A5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

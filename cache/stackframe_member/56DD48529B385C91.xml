@@ -7,7 +7,7 @@
       <parent_id>A44B9216F69E2714</parent_id>
       <address>3C</address>
       <userdefinedname>pTlv</userdefinedname>
-      <proto>Path_Grinder_Data *</proto>
+      <proto>Path_Grinder *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

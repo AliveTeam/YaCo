@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>155CB144518B7874</parent_id>
       <address>FC</address>
-      <userdefinedname>field_FC</userdefinedname>
+      <userdefinedname>field_FC_min_off_time</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

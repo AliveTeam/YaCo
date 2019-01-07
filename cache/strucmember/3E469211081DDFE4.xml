@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>155CB144518B7874</parent_id>
       <address>120</address>
-      <userdefinedname>field_120</userdefinedname>
+      <userdefinedname>field_120_off_speed</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

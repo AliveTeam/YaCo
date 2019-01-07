@@ -3,13 +3,16 @@
   <stackframe_member>
     <id>CAB0269895F5634C</id>
     <version>
-      <size>0x0000000000000002</size>
+      <size>0x0000000000000018</size>
       <parent_id>A44B9216F69E2714</parent_id>
       <address>14</address>
-      <userdefinedname>var_24</userdefinedname>
-      <flags>0x10000400</flags>
+      <userdefinedname>tlvData</userdefinedname>
+      <proto>Path_Grinder_Data</proto>
+      <flags>0x60000400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">3AC3949F965DB903</xref>
+      </xrefs>
     </version>
   </stackframe_member>
 </sigfile>

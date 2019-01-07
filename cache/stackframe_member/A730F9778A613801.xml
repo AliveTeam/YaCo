@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>A44B9216F69E2714</parent_id>
       <address>40</address>
-      <userdefinedname>arg_4</userdefinedname>
+      <userdefinedname>tlvInfo</userdefinedname>
       <proto>_DWORD</proto>
       <flags>0x20000400</flags>
       <signatures/>

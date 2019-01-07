@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>836EA471A9D85B18</id>
+    <id>93BBA043B628C6CC</id>
     <version>
       <size>0x0000000000000002</size>
-      <parent_id>84DB0FC3E896C87F</parent_id>
-      <address>20</address>
-      <userdefinedname>field_20_min_off_time2</userdefinedname>
+      <parent_id>3AC3949F965DB903</parent_id>
+      <userdefinedname>field_10_scale</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

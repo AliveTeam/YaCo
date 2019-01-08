@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E56E28B1DD7E39CD</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>28154094F0F55973</parent_id>
+      <address>4DC350</address>
+      <userdefinedname flags="0x000000D4">Teleporter::vdtor_4DC350</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">921368C286A7AEBA</xref>
+        <xref offset="0x000000000000000F">D9C3607F5DAE224E</xref>
+        <xref offset="0x0000000000000018">A4FC4854029D1A88</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

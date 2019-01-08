@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>EE7B0FCB09B72C57</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>88B9E3C1C9A0EEAA</parent_id>
+      <address>4DCE80</address>
+      <userdefinedname flags="0x000000D4">Teleporter::vScreenChanged_4DCE80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1F36E1C5</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000006" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000006">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000000F">830CCF6551B0DF83</xref>
+        <xref offset="0x0000000000000013">DA8CD3570DF49F4D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

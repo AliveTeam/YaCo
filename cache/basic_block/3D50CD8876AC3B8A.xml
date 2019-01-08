@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3D50CD8876AC3B8A</id>
+    <version>
+      <size>0x0000000000000043</size>
+      <parent_id>64B7F5CBA3172EE5</parent_id>
+      <address>4DC400</address>
+      <userdefinedname flags="0x000000D4">Teleporter::vUpdate_4DC400</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1B3DBF2C</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">switch 5 cases </comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000026" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">6B2EF202CFB4F949</xref>
+        <xref offset="0x000000000000001E">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000002B">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000043">94A961C0FC53CA22</xref>
+        <xref offset="0x000000000000082A">28E0BB5C0C26E43C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

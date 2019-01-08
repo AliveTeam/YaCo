@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>762C33D89632670A</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>97C14253864BE0EE</parent_id>
+      <address>424130</address>
+      <userdefinedname flags="0x00000054">BaseBomb::vdtor_424130</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">0FC98338E1AFE0EC</xref>
+        <xref offset="0x000000000000000F">07D81A21352A1A57</xref>
+        <xref offset="0x0000000000000018">8141F33201975AB2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

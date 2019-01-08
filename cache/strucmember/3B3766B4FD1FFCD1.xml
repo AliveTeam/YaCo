@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>3B3766B4FD1FFCD1</id>
+    <version>
+      <size>0x0000000000000016</size>
+      <parent_id>6367B3829D014125</parent_id>
+      <address>34</address>
+      <userdefinedname>field_34_mTlvData</userdefinedname>
+      <proto>Path_Teleporter_Data</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">D707158C3A605E70</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D707158C3A605E70</id>
+    <version>
+      <size>0x0000000000000016</size>
+      <address>136</address>
+      <userdefinedname>Path_Teleporter_Data</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">0454A5F9EA4D5C9D</xref>
+        <xref offset="0x0000000000000002">0016E102480B7F1D</xref>
+        <xref offset="0x0000000000000004">079F2C2C7882657B</xref>
+        <xref offset="0x0000000000000006">12D7E2B167A14D31</xref>
+        <xref offset="0x0000000000000008">F336925F06C24A3C</xref>
+        <xref offset="0x000000000000000A">817859B76F049E5A</xref>
+        <xref offset="0x000000000000000C">F3F4E6BA90652146</xref>
+        <xref offset="0x000000000000000E">F11793A700866085</xref>
+        <xref offset="0x0000000000000010">DA29F5ED301F47AF</xref>
+        <xref offset="0x0000000000000012">74D17887A144DD81</xref>
+        <xref offset="0x0000000000000014">577583EBB426F58B</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

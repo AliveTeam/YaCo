@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>984A8694A0CC986D</id>
+    <id>ED997C2719E46A60</id>
     <version>
       <size>0x0000000000000004</size>
       <parent_id>6367B3829D014125</parent_id>
-      <address>20</address>
-      <userdefinedname>field_20_tlvInfo</userdefinedname>
+      <address>50</address>
+      <userdefinedname>field_50</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

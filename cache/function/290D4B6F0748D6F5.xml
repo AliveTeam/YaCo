@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>290D4B6F0748D6F5</id>
+    <version>
+      <size>0x000000000000011B</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4DC1E0</address>
+      <proto>Teleporter *__thiscall sub(Teleporter *this, Path_Teleporter *pTlv, int tlvInfo)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6A83B847</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">97FC3FB882445CC9</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000011B">98396B45AE6D90BA</xref>
+        <xref offset="0x0000000000065EA0" size="0x0000000000000008">F0353879E49FBAC9</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

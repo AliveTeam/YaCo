@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>98396B45AE6D90BA</id>
+    <version>
+      <size>0x000000000000011B</size>
+      <parent_id>290D4B6F0748D6F5</parent_id>
+      <address>4DC1E0</address>
+      <userdefinedname flags="0x000000D4">Teleporter::ctor_4DC1E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5E1ED08C</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <comments offset="00000000000000E3" type="nonrepeatable_comment">idx</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000020" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000029" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000035" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000044" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000048" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000055" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000078" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000009B" operand="00000001">offset-off32</valueview>
+        <valueview offset="00000000000000BD" operand="00000001">offset-off32</valueview>
+        <valueview offset="00000000000000E9" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">81658DA74CDFDDBF</xref>
+        <xref offset="0x0000000000000024">A7260007830E0215</xref>
+        <xref offset="0x0000000000000035">E7E64B72CF379024</xref>
+        <xref offset="0x0000000000000055">AEDB852A1CE46E7A</xref>
+        <xref offset="0x0000000000000078">AEDB852A1CE46E7A</xref>
+        <xref offset="0x000000000000009B">AEDB852A1CE46E7A</xref>
+        <xref offset="0x00000000000000BD">AEDB852A1CE46E7A</xref>
+        <xref offset="0x00000000000000E4">F015A39A2DE7D067</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

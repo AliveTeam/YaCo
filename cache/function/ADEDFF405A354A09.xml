@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>ADEDFF405A354A09</id>
+    <version>
+      <size>0x000000000000005F</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4DC380</address>
+      <proto>void __thiscall sub(Teleporter *this)</proto>
+      <flags>0x440</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">9ED5AA77</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">39A1F371AFFEB6CE</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000005F">921368C286A7AEBA</xref>
+        <xref offset="0x0000000000065D20" size="0x0000000000000008">AB4017EF777856D7</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

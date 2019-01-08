@@ -6,6 +6,7 @@
       <size>0x000000000000083D</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4DC400</address>
+      <proto>void __thiscall sub(Teleporter *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">50566B76</signature>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3FA307993CD23CE8</id>
+    <version>
+      <size>0x000000000000005E</size>
+      <parent_id>64B7F5CBA3172EE5</parent_id>
+      <address>4DC4E0</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">4A555E87</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">scale</comments>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">volume</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">sfxIdx</comments>
+        <comments offset="000000000000002B" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000037" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000049" operand="00000001">stack</valueview>
+        <valueview offset="000000000000004E" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000053" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000058" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">1BB602D4D2CFD157</xref>
+        <xref offset="0x000000000000001E">D26DC8293D1259BC</xref>
+        <xref offset="0x0000000000000023">1ADA5D2FFFDE9F49</xref>
+        <xref offset="0x000000000000002B">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000003C">3F1E51803EA9835D</xref>
+        <xref offset="0x0000000000000053">37D821EF5805B12A</xref>
+        <xref offset="0x0000000000000062">56E010D1398E3FC7</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

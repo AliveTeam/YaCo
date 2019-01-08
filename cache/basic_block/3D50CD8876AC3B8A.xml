@@ -11,6 +11,8 @@
         <signature algo="crc32" method="invariants">1B3DBF2C</signature>
       </signatures>
       <offsets>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000002A" type="nonrepeatable_comment">idToFind</comments>
         <comments offset="000000000000003B" type="nonrepeatable_comment">switch 5 cases </comments>
         <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
         <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>

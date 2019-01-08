@@ -6,8 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>6367B3829D014125</parent_id>
       <address>4C</address>
-      <userdefinedname>field_4C</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>field_4C_pTlv</userdefinedname>
+      <proto>Path_Teleporter *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

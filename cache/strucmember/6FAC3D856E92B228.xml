@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <stackframe_member>
-    <id>535E14F134BBA95A</id>
+  <strucmember>
+    <id>6FAC3D856E92B228</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>B06500F52E6132EC</parent_id>
-      <address>24</address>
-      <userdefinedname>xpos</userdefinedname>
+      <parent_id>73BF27940CA90F8C</parent_id>
+      <address>F8</address>
+      <userdefinedname>field_F8</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
     </version>
-  </stackframe_member>
+  </strucmember>
 </sigfile>

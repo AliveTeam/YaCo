@@ -11,6 +11,7 @@
         <signature algo="crc32" method="invariants">B2D5C09B</signature>
       </signatures>
       <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">resourceArraySize</comments>
         <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
         <valueview offset="000000000000001E" operand="00000000">stack</valueview>
         <valueview offset="0000000000000027" operand="00000001">stack</valueview>

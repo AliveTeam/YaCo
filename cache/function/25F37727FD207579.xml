@@ -6,6 +6,7 @@
       <size>0x0000000000000048</size>
       <parent_id>B7AD2001E52C57D7</parent_id>
       <address>41CEE0</address>
+      <proto>unsigned int *__thiscall sub(ParticleBurst *this, unsigned int *a2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">DCBA8947</signature>

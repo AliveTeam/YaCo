@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>73BF27940CA90F8C</parent_id>
       <address>F4</address>
-      <userdefinedname>field_F4</userdefinedname>
+      <userdefinedname>field_F4_ppResBuffer</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

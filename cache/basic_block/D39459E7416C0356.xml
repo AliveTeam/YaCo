@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D39459E7416C0356</id>
+    <version>
+      <size>0x0000000000000028</size>
+      <parent_id>39DEFB1A06CEA187</parent_id>
+      <address>4B1D47</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">640E7DBC</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">forceChange</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">screenChangeEffect</comments>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">cam</comments>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">path</comments>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">level</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">this</comments>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001E">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000023">66140E9220F7D92B</xref>
+        <xref offset="0x0000000000000028">9213AB17C6D72F32</xref>
+        <xref offset="0x00000000FFFCEFE9">66140E9220F7D92B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>39DEFB1A06CEA187</id>
+    <version>
+      <size>0x00000000000000E1</size>
+      <parent_id>073FC27073D20B2C</parent_id>
+      <address>4B1CF0</address>
+      <proto>int __thiscall sub(Slig *a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">2F8C5386</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">34A7A7F8AAD183DA</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000034">A14587D9BDB8EFE5</xref>
+        <xref offset="0x0000000000000034" size="0x0000000000000023">36A196B06B00EFFF</xref>
+        <xref offset="0x0000000000000057" size="0x0000000000000028">D39459E7416C0356</xref>
+        <xref offset="0x000000000000007F" size="0x0000000000000016">9213AB17C6D72F32</xref>
+        <xref offset="0x0000000000000095" size="0x0000000000000008">4EC4EC6DDFE284CB</xref>
+        <xref offset="0x000000000000009D" size="0x0000000000000005">FBE641BE05CE483C</xref>
+        <xref offset="0x00000000000000A2" size="0x000000000000000A">2222C8728C19224D</xref>
+        <xref offset="0x00000000000000AC" size="0x0000000000000007">8437423E0B5CA928</xref>
+        <xref offset="0x00000000000000B3" size="0x000000000000000F">3A01499590F4597D</xref>
+        <xref offset="0x00000000000000C2" size="0x000000000000001F">270F9343F6479E10</xref>
+        <xref offset="0x000000000008FB30" size="0x0000000000000008">7B04127D68153BD5</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

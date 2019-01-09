@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CE1EE09583D93E1D</id>
+    <version>
+      <size>0x000000000000004F</size>
+      <parent_id>640682FEAF28FF32</parent_id>
+      <address>4B4A20</address>
+      <userdefinedname flags="0x000000D4">Slig::sub_4B4A20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">4AFB1564</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000006" type="nonrepeatable_comment">max</comments>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">min</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">snapToGrid</comments>
+        <comments offset="000000000000003F" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000027" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000022">99AB010BE8FEE790</xref>
+        <xref offset="0x0000000000000027">FDA710D9B7860CA4</xref>
+        <xref offset="0x0000000000000047">913967E80C030FB0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

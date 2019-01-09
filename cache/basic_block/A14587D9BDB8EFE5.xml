@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A14587D9BDB8EFE5</id>
+    <version>
+      <size>0x0000000000000034</size>
+      <parent_id>39DEFB1A06CEA187</parent_id>
+      <address>4B1CF0</address>
+      <userdefinedname flags="0x00000054">Slig::dtor_4B1CF0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5BBBB765</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000028" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">27CB4737B1E00805</xref>
+        <xref offset="0x000000000000001D">F81B7CB36317480F</xref>
+        <xref offset="0x0000000000000023">1ADA5D2FFFDE9F49</xref>
+        <xref offset="0x0000000000000034">36A196B06B00EFFF</xref>
+        <xref offset="0x000000000000007F">9213AB17C6D72F32</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

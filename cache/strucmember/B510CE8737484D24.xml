@@ -3,11 +3,11 @@
   <strucmember>
     <id>B510CE8737484D24</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000002</size>
       <parent_id>D7F849C7DFF9C61A</parent_id>
       <address>142</address>
       <userdefinedname>field_142</userdefinedname>
-      <flags>0x20000400</flags>
+      <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
     </version>

@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <stackframe_member>
-    <id>7B102DE744BE1DDB</id>
+  <strucmember>
+    <id>CD2BDCDF2D58F69A</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>B06500F52E6132EC</parent_id>
+      <parent_id>A18F5396379F14B5</parent_id>
       <address>38</address>
-      <userdefinedname>a2</userdefinedname>
-      <proto>unsigned int</proto>
+      <userdefinedname>field_38</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
     </version>
-  </stackframe_member>
+  </strucmember>
 </sigfile>

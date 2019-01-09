@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>13A2F34A1DE64165</id>
+    <version>
+      <size>0x000000000000004B</size>
+      <parent_id>BE343338ECCF6682</parent_id>
+      <address>4C5060</address>
+      <proto>Path_TLV *__thiscall sub(Slog *this, Path_TLV *a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B3966F1A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">66D61E99CCAE7D5B</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000B">F81E7743303F0E09</xref>
+        <xref offset="0x000000000000000B" size="0x0000000000000007">7B3ADA9D493450DE</xref>
+        <xref offset="0x0000000000000012" size="0x0000000000000005">1CF012698229A54D</xref>
+        <xref offset="0x0000000000000017" size="0x000000000000000E">77B0F2C8E49BCC1A</xref>
+        <xref offset="0x0000000000000025" size="0x0000000000000020">5901EB527D22A2FB</xref>
+        <xref offset="0x0000000000000045" size="0x0000000000000002">B22A644C412466FD</xref>
+        <xref offset="0x0000000000000047" size="0x0000000000000004">4201C9C16D995029</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

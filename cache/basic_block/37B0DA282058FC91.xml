@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>37B0DA282058FC91</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>D91A269182C53145</parent_id>
+      <address>4C4B50</address>
+      <userdefinedname flags="0x000000D4">Slog::vsub_4C4B50</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B74D055D</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

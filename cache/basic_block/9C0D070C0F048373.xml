@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9C0D070C0F048373</id>
+    <version>
+      <size>0x000000000000002B</size>
+      <parent_id>09EB492BEC57FBFF</parent_id>
+      <address>4BC1E0</address>
+      <userdefinedname flags="0x000000D4">Slig::sub_4BC1E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C941F6C1</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">93AA2B5BE5946EBD</xref>
+        <xref offset="0x000000000000002B">B524F0389C33981F</xref>
+        <xref offset="0x0000000000000183">CB710D6BCEC6DF69</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

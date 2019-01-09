@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7FF788DADB7D99F7</id>
+    <version>
+      <size>0x0000000000000041</size>
+      <parent_id>3D6A0C5069F079FC</parent_id>
+      <address>4BC41C</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">D2639830</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">bFlag0x20</comments>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">bFlag4</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">pObj</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">a1</comments>
+        <comments offset="000000000000002E" type="nonrepeatable_comment">forceChange</comments>
+        <comments offset="0000000000000030" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">screenChangeEffect</comments>
+        <comments offset="0000000000000034" type="nonrepeatable_comment">cam</comments>
+        <comments offset="0000000000000035" type="nonrepeatable_comment">path</comments>
+        <comments offset="0000000000000036" type="nonrepeatable_comment">level</comments>
+        <comments offset="0000000000000037" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000C" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000037" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">278A99732A3FE00C</xref>
+        <xref offset="0x000000000000000C">1ADA5D2FFFDE9F49</xref>
+        <xref offset="0x0000000000000011">E488FCB801A12858</xref>
+        <xref offset="0x0000000000000037">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000003C">66140E9220F7D92B</xref>
+        <xref offset="0x0000000000000041">FB09C8D70F86C705</xref>
+        <xref offset="0x00000000FFFC4914">66140E9220F7D92B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

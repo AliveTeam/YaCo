@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>6FAC5DF9BD70B3D9</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>BE343338ECCF6682</parent_id>
+      <address>4C4020</address>
+      <proto>signed __int16 __thiscall sub(Slog *this, int a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">515ACD17</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">AA1FD9A1B60893C9</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000E">11771DDC7B4C3241</xref>
+        <xref offset="0x000000000000000E" size="0x0000000000000006">6659B44E4A1DF0B2</xref>
+        <xref offset="0x0000000000000014" size="0x0000000000000007">CD27827EF77EA0DD</xref>
+        <xref offset="0x000000000000001B" size="0x0000000000000002">43EC172EB7E95F65</xref>
+        <xref offset="0x000000000000001D" size="0x0000000000000002">4F813C2E45877D1D</xref>
+        <xref offset="0x000000000000001F" size="0x0000000000000006">9CF1932256530010</xref>
+        <xref offset="0x0000000000000025" size="0x0000000000000007">06181F513CD06740</xref>
+        <xref offset="0x000000000000002C" size="0x0000000000000006">AE56464821C42508</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

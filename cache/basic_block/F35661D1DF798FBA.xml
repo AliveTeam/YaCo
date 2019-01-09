@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F35661D1DF798FBA</id>
+    <version>
+      <size>0x0000000000000034</size>
+      <parent_id>36256122399D57FB</parent_id>
+      <address>4C5DA0</address>
+      <userdefinedname flags="0x000000D4">Slog::sub_4C5DA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">340108C6</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">idToFind</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000009" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002C" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000009">D8A28DFE547A3378</xref>
+        <xref offset="0x0000000000000015">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000034">AC6C6B3068644C06</xref>
+        <xref offset="0x000000000000005B">58EEE1B917E8F509</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

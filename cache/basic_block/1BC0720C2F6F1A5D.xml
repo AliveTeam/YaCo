@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1BC0720C2F6F1A5D</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>09EB492BEC57FBFF</parent_id>
+      <address>541960</address>
+      <userdefinedname flags="0x00000034">unknown_libname_148</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">18EBA3B3</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="repeatable_comment">Microsoft VisualC 2-14/net runtime</comments>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">ptr</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">BBA8273CBF076E04</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

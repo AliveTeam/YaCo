@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>11771DDC7B4C3241</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>6FAC5DF9BD70B3D9</parent_id>
+      <address>4C4020</address>
+      <userdefinedname flags="0x000000D4">Slog::sub_4C4020</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">99A2A3D1</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000006" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">6659B44E4A1DF0B2</xref>
+        <xref offset="0x000000000000001D">4F813C2E45877D1D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

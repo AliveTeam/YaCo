@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>61424B213F300600</id>
+    <version>
+      <size>0x0000000000000012</size>
+      <parent_id>19284FADF68854EE</parent_id>
+      <address>4BBC00</address>
+      <userdefinedname flags="0x000000D4">Slig::sub_4BBC00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1FA9D3E7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000012">FC2C4541531415A9</xref>
+        <xref offset="0x00000000000000B9">945D07802A420C9C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

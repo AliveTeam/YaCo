@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0470C32CDF886B8D</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <parent_id>107CD8816E3A70D4</parent_id>
+      <address>4C7860</address>
+      <userdefinedname flags="0x000000D4">Slog::tsub_4C7860</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">005F4739</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000006">C38C6A8CAD74E52D</xref>
+        <xref offset="0x000000000000000F">0E2F07B9F4454690</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

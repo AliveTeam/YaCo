@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>A9F8AA2981C11F94</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>82944F5AD7E2A8BF</parent_id>
+      <address>120</address>
+      <userdefinedname>field_120_brain_state_idx</userdefinedname>
+      <proto>unsigned __int16</proto>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

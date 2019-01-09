@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>03EB221776EC4DE4</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>303F716319B71D14</parent_id>
+      <address>4C50D0</address>
+      <userdefinedname flags="0x000000D4">Slog::vUpdate_4C50D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">354C6F45</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000002" type="nonrepeatable_comment">d</comments>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">d</comments>
+        <comments offset="0000000000000006" type="nonrepeatable_comment">d</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000017">0BD370311B1C212C</xref>
+        <xref offset="0x00000000000000C3">BDB59172BCFD860A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

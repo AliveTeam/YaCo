@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>62E5E2D45CFE0D64</id>
+    <version>
+      <size>0x0000000000000062</size>
+      <parent_id>1885FBD16EBD575E</parent_id>
+      <address>4C42E0</address>
+      <userdefinedname flags="0x00000054">Slog::ctor_4C42E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9007E029</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001C" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000025" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000033" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000039" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">2544A2719B5A16AC</xref>
+        <xref offset="0x0000000000000020">58EFBD3655CA8AA0</xref>
+        <xref offset="0x0000000000000033">4BC2FAB1BBEAF996</xref>
+        <xref offset="0x0000000000000062">F6B805956AFA20DC</xref>
+        <xref offset="0x0000000000000070">D70E5F1A6C2BFE35</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

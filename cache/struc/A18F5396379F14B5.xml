@@ -3,7 +3,7 @@
   <struc>
     <id>A18F5396379F14B5</id>
     <version>
-      <size>0x0000000000000080</size>
+      <size>0x0000000000000088</size>
       <address>1D3</address>
       <userdefinedname>Unknown_Class88</userdefinedname>
       <signatures/>
@@ -14,23 +14,7 @@
         <xref offset="0x000000000000000C">3B3B461AC45A04F8</xref>
         <xref offset="0x0000000000000010">9BB6F28C42A62CB9</xref>
         <xref offset="0x0000000000000014">56FF8498019D152C</xref>
-        <xref offset="0x000000000000003C">199D9EAC1AFAC686</xref>
-        <xref offset="0x0000000000000040">C4C153F24AE3665E</xref>
-        <xref offset="0x0000000000000044">0C21048693AF466F</xref>
-        <xref offset="0x0000000000000048">53A81368EC012276</xref>
-        <xref offset="0x000000000000004C">34240AEF680B767B</xref>
-        <xref offset="0x0000000000000050">7BE5E25DD6B0114D</xref>
-        <xref offset="0x0000000000000054">1C93420B0AFE3968</xref>
-        <xref offset="0x0000000000000058">E156F0F767FBAADD</xref>
-        <xref offset="0x000000000000005C">79F1E9F6213AFF09</xref>
-        <xref offset="0x0000000000000060">BEF9766F778737C1</xref>
-        <xref offset="0x0000000000000064">CF4FC076D2542CE6</xref>
-        <xref offset="0x0000000000000068">61FD08238E4BA8B2</xref>
-        <xref offset="0x000000000000006C">52772929A5A6EC09</xref>
-        <xref offset="0x0000000000000070">A55CF6EE27D152EC</xref>
-        <xref offset="0x0000000000000074">452A3D0E16AB9517</xref>
-        <xref offset="0x0000000000000078">2393E67032615793</xref>
-        <xref offset="0x000000000000007C">979A60C32595C5E8</xref>
+        <xref offset="0x0000000000000018">B47889799DEF348C</xref>
       </xrefs>
     </version>
   </struc>

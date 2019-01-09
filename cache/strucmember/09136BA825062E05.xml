@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>61FD08238E4BA8B2</id>
+    <id>09136BA825062E05</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>A18F5396379F14B5</parent_id>
+      <parent_id>F8E451EBEAF29694</parent_id>
       <address>68</address>
-      <userdefinedname>field_68</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>field_68_pAnim</userdefinedname>
+      <proto>AnimationEx *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

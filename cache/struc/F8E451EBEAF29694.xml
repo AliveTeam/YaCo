@@ -3,7 +3,7 @@
   <struc>
     <id>F8E451EBEAF29694</id>
     <version>
-      <size>0x0000000000000070</size>
+      <size>0x0000000000000088</size>
       <address>1D4</address>
       <userdefinedname>Class_5447CC</userdefinedname>
       <signatures/>
@@ -36,6 +36,12 @@
         <xref offset="0x0000000000000064">3A1FB3E7BCB75F23</xref>
         <xref offset="0x0000000000000068">09136BA825062E05</xref>
         <xref offset="0x000000000000006C">B50BA234544C7A5C</xref>
+        <xref offset="0x0000000000000070">D5D8A0978B84256F</xref>
+        <xref offset="0x0000000000000074">61D76EC52563981F</xref>
+        <xref offset="0x0000000000000078">1C581272030D39E4</xref>
+        <xref offset="0x000000000000007C">BB2B622B9D203B93</xref>
+        <xref offset="0x0000000000000080">C3149BEF7EE36AB6</xref>
+        <xref offset="0x0000000000000084">C5C58F08B5A4B08D</xref>
       </xrefs>
     </version>
   </struc>

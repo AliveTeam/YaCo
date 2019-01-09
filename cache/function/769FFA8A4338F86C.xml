@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>769FFA8A4338F86C</id>
+    <version>
+      <size>0x000000000000006A</size>
+      <parent_id>073FC27073D20B2C</parent_id>
+      <address>4B95D0</address>
+      <proto>signed __int16 __thiscall sub(Slig *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">FFFB6EE3</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">2C43E7D566F47030</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000020">976693ED37F13F16</xref>
+        <xref offset="0x0000000000000020" size="0x0000000000000006">13351BC3CD4B609B</xref>
+        <xref offset="0x0000000000000026" size="0x000000000000000E">CF7647AC29597CC0</xref>
+        <xref offset="0x0000000000000034" size="0x0000000000000006">9F892D0CAE19A8D5</xref>
+        <xref offset="0x000000000000003A" size="0x0000000000000006">3F0CBCC99C7562ED</xref>
+        <xref offset="0x0000000000000040" size="0x000000000000001C">3FBE12B58BF1E571</xref>
+        <xref offset="0x000000000000005C" size="0x0000000000000007">7B05EF6C24BA5F73</xref>
+        <xref offset="0x0000000000000063" size="0x0000000000000007">38312910E8D83C30</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

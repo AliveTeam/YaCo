@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F824E8128643FE41</id>
+    <version>
+      <size>0x0000000000000047</size>
+      <parent_id>6280D72696DE73AE</parent_id>
+      <address>4B2F3A</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">27FC2657</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">bFlag0x20</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">bFlag4</comments>
+        <comments offset="0000000000000034" type="nonrepeatable_comment">pObj</comments>
+        <comments offset="0000000000000035" type="nonrepeatable_comment">a1</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000011" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002C" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">4F8B5B9A98705200</xref>
+        <xref offset="0x0000000000000011">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000001F">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000002C">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000003E">E488FCB801A12858</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>C118DFE637316013</id>
+    <version>
+      <size>0x00000000000000A9</size>
+      <parent_id>073FC27073D20B2C</parent_id>
+      <address>4BB8B0</address>
+      <proto>BOOL __thiscall sub(Slig *this, int a2, int *a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">71263BC8</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">DAEF16D542A7AB4F</xref>
+        <xref offset="0x0000000000000000" size="0x00000000000000A9">FD0DE18F49D9E5C3</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

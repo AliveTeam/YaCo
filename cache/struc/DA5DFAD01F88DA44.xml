@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>DA5DFAD01F88DA44</id>
+    <version>
+      <size>0x0000000000000130</size>
+      <address>198</address>
+      <userdefinedname>Blood</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">BB40069006019E53</xref>
+        <xref offset="0x00000000000000E4">C0030635932EEEC7</xref>
+        <xref offset="0x00000000000000E8">7C49E7BA22D1710D</xref>
+        <xref offset="0x00000000000000EC">17762930B8F6A359</xref>
+        <xref offset="0x00000000000000F0">FA49CC7756627F40</xref>
+        <xref offset="0x00000000000000F4">E6A04CF83DDF0FB5</xref>
+        <xref offset="0x00000000000000F8">D03B171E1BE00326</xref>
+        <xref offset="0x00000000000000FC">A6EEC92F679932B4</xref>
+        <xref offset="0x000000000000011C">514678293FD73B7B</xref>
+        <xref offset="0x000000000000011E">DF5DCE6DB1AE35BD</xref>
+        <xref offset="0x0000000000000120">1F41D50246B170E8</xref>
+        <xref offset="0x0000000000000122">F7FFE8ED7B9BE3E8</xref>
+        <xref offset="0x0000000000000124">5AD6739413C7829B</xref>
+        <xref offset="0x0000000000000126">90B97F92BD07A663</xref>
+        <xref offset="0x0000000000000128">721744AE19DD6A73</xref>
+        <xref offset="0x000000000000012C">B3E446E1A6A1249D</xref>
+        <xref offset="0x000000000000012E">F667AA32C811218E</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9794631BD1CB9205</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>802253E1BF36080F</parent_id>
+      <address>4B3090</address>
+      <userdefinedname flags="0x000000D4">Slig::sub_4B3090</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B50A6F21</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">width</comments>
+        <comments offset="0000000000000018" type="nonrepeatable_comment">ypos</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">xpos</comments>
+        <comments offset="0000000000000021" type="nonrepeatable_comment">path</comments>
+        <comments offset="0000000000000022" type="nonrepeatable_comment">level</comments>
+        <comments offset="0000000000000023" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000023">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000028">0C4B91B73FB67A24</xref>
+        <xref offset="0x0000000000000032">B20E9B9DFAD35C3E</xref>
+        <xref offset="0x0000000000000038">D55434CC4B87B935</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0FB224C06A2987F8</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>B38A1BF46C1FD4D9</parent_id>
+      <address>4B1343</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">0A7A40E9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">pAnimRes</comments>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">frameTableOffset</comments>
+        <valueview offset="0000000000000008" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">2743053F98545804</xref>
+        <xref offset="0x0000000000000013">0BFD750E6B1E786D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

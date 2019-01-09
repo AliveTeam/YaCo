@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>73F514F572452A10</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>01677E3ABD14A1B1</parent_id>
+      <address>4BBCF0</address>
+      <userdefinedname flags="0x000000D4">Slig::sub_4BBCF0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">8224C7D1</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">switch 5 cases </comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000015">CC4F5AB45A88504D</xref>
+        <xref offset="0x0000000000000213">6C219779E7045D8A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

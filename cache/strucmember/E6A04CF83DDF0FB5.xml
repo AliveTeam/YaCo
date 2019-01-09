@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>E6A04CF83DDF0FB5</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>DA5DFAD01F88DA44</parent_id>
+      <address>F4</address>
+      <userdefinedname>field_F4_pPrimBuffer</userdefinedname>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -3,11 +3,11 @@
   <strucmember>
     <id>0B2B1F1945739B1C</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000002</size>
       <parent_id>D7F849C7DFF9C61A</parent_id>
       <address>14A</address>
-      <userdefinedname>field_14A</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>field_14A_camera</userdefinedname>
+      <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
     </version>

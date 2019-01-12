@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>B6C4A0202B3C4404</id>
+    <version>
+      <size>0x0000000000000060</size>
+      <address>1D5</address>
+      <userdefinedname>Spark</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">308A4B54FA805EA6</xref>
+        <xref offset="0x0000000000000020">A48AAA29CC94D86C</xref>
+        <xref offset="0x0000000000000024">584A8B489B44F276</xref>
+        <xref offset="0x0000000000000028">AEF7FF612E242AAE</xref>
+        <xref offset="0x000000000000002C">47210E3928577D12</xref>
+        <xref offset="0x0000000000000030">EB8B666FC90E8BD0</xref>
+        <xref offset="0x0000000000000034">8308B2047DBB27D5</xref>
+        <xref offset="0x0000000000000038">546A245F89797A47</xref>
+        <xref offset="0x000000000000003C">3CBCA321BD32D736</xref>
+        <xref offset="0x0000000000000040">1CC7AD51C5EA97AD</xref>
+        <xref offset="0x0000000000000044">509B350CB743E299</xref>
+        <xref offset="0x0000000000000048">320AF335C7F11BD7</xref>
+        <xref offset="0x000000000000004C">65FD9F95C9A727E9</xref>
+        <xref offset="0x0000000000000050">2002F21C94FD8490</xref>
+        <xref offset="0x0000000000000054">528917EA76BCDF12</xref>
+        <xref offset="0x0000000000000058">BA5128CB08352AFD</xref>
+        <xref offset="0x000000000000005C">114C0F5F8A260C0E</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>80103D0B49BC056C</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>A944F83282CD11BE</parent_id>
+      <address>4CBEF0</address>
+      <userdefinedname flags="0x000000D4">Spark::vUpdate_4CBEF0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">FE877081</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">idx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">BDE9AC4141BD970D</xref>
+        <xref offset="0x0000000000000017">DD64E2DD64B491DF</xref>
+        <xref offset="0x000000000000001B">0CFCF41466DBC984</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

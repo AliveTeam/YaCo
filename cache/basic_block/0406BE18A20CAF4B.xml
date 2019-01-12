@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0406BE18A20CAF4B</id>
+    <version>
+      <size>0x0000000000000045</size>
+      <parent_id>7BEB2BA46B4C931D</parent_id>
+      <address>4CC050</address>
+      <userdefinedname flags="0x000000D4">Spark::vRender_4CC050</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">922D4C75</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000000A" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000018" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000023" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">B8E331B372F3B649</xref>
+        <xref offset="0x0000000000000018">278A99732A3FE00C</xref>
+        <xref offset="0x000000000000001E">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000037">0C4B91B73FB67A24</xref>
+        <xref offset="0x0000000000000045">056C03A2933749FC</xref>
+        <xref offset="0x000000000000035E">C4B188FBA465AED0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

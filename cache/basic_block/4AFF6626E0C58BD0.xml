@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4AFF6626E0C58BD0</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>79E074B43A8167A1</parent_id>
+      <address>4CBE30</address>
+      <userdefinedname flags="0x000000D4">Spark::vdtor_4CBE30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">39ECDF1E80C2C95D</xref>
+        <xref offset="0x000000000000000F">8E4E3758C4C06A1D</xref>
+        <xref offset="0x0000000000000018">06E2A33ADAF23264</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

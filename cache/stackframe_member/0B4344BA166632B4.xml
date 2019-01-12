@@ -6,10 +6,13 @@
       <size>0x0000000000000004</size>
       <parent_id>B5EB83E9A694FD73</parent_id>
       <address>2C</address>
-      <userdefinedname>var_C</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>xy</userdefinedname>
+      <proto>PSX_Point</proto>
+      <flags>0x60000400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E62EE18DC61209D7</xref>
+      </xrefs>
     </version>
   </stackframe_member>
 </sigfile>

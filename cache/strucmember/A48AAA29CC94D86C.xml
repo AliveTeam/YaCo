@@ -3,13 +3,16 @@
   <strucmember>
     <id>A48AAA29CC94D86C</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000020</size>
       <parent_id>B6C4A0202B3C4404</parent_id>
       <address>20</address>
-      <userdefinedname>field_20</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>field_20_tPage</userdefinedname>
+      <proto>Prim_SetTPage[2]</proto>
+      <flags>0x60000400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">CD0A6CE5D199132B</xref>
+      </xrefs>
     </version>
   </strucmember>
 </sigfile>

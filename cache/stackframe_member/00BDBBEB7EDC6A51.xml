@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>B5EB83E9A694FD73</parent_id>
       <address>10</address>
-      <userdefinedname>var_28</userdefinedname>
+      <userdefinedname>yOrg</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

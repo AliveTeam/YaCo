@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>086350E702E3AD5E</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <address>1D7</address>
+      <userdefinedname>Line_G2</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">B2EDA4B4424E896A</xref>
+        <xref offset="0x000000000000000C">EDECB6DA161AD15E</xref>
+        <xref offset="0x000000000000000E">B82F64E7894A3DAC</xref>
+        <xref offset="0x0000000000000010">04C98A78EBDCE677</xref>
+        <xref offset="0x0000000000000011">A70A82A75E531295</xref>
+        <xref offset="0x0000000000000012">AF3F9A3B6808B1BF</xref>
+        <xref offset="0x0000000000000013">22CDD98769308F17</xref>
+        <xref offset="0x0000000000000014">4A0452BF7A8777F4</xref>
+        <xref offset="0x0000000000000016">66EE65A68246D887</xref>
+        <xref offset="0x0000000000000018">04B822B5B456ED3F</xref>
+        <xref offset="0x0000000000000019">46F1CEEBA8E154B2</xref>
+        <xref offset="0x000000000000001A">7ADECCC719782A60</xref>
+        <xref offset="0x000000000000001B">9E18FA0680DF65AD</xref>
+        <xref offset="0x000000000000001C">C9C6DCA68CBFEB7E</xref>
+        <xref offset="0x000000000000001E">B98E2E407318C053</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

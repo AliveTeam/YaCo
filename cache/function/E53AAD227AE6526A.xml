@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>E53AAD227AE6526A</id>
+    <version>
+      <size>0x00000000000000F4</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>426AA0</address>
+      <proto>Particle *__cdecl sub(int xpos, int ypos, int velY, int velX, int scale, __int16 layer, unsigned __int8 r, unsigned __int8 b, unsigned __int8 g)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">8C4B5DBD</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">6CBAEC9A2DFE35E5</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000004D">3EF3ADFE2F27FA00</xref>
+        <xref offset="0x000000000000004D" size="0x000000000000001F">7F3CA7B98A56FECE</xref>
+        <xref offset="0x000000000000006C" size="0x0000000000000056">6BDFDEDDDAC11A72</xref>
+        <xref offset="0x00000000000000C2" size="0x0000000000000006">4A80FDAC25D5ECEA</xref>
+        <xref offset="0x00000000000000C8" size="0x0000000000000008">578E9E4622D41A9F</xref>
+        <xref offset="0x00000000000000D0" size="0x0000000000000008">6862DDA00FD6206B</xref>
+        <xref offset="0x00000000000000D8" size="0x0000000000000006">BF2D1A7A9D05DE73</xref>
+        <xref offset="0x00000000000000DE" size="0x0000000000000006">1199ADB1415597EA</xref>
+        <xref offset="0x00000000000000E4" size="0x0000000000000010">9DD5F12E2CB03751</xref>
+        <xref offset="0x00000000001181A0" size="0x000000000000000B">F9A8876D17D4648E</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

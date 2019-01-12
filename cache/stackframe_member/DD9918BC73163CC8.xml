@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>02DA6CCED65186AF</id>
+    <id>DD9918BC73163CC8</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>9D33F5CD704EB8A5</parent_id>
-      <address>C</address>
-      <userdefinedname>scale</userdefinedname>
+      <parent_id>EF14AF3009BACBCE</parent_id>
+      <address>8</address>
+      <userdefinedname>ypos</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

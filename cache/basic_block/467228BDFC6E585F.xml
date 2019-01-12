@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>467228BDFC6E585F</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <parent_id>637BEAFF1752F590</parent_id>
+      <address>4EE8F0</address>
+      <userdefinedname flags="0x00000054">SND_Get_Buffer_Status_4EE8F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">030945E3</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000006" operand="00000001">unsigneddecimal</valueview>
+        <valueview offset="000000000000000E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000015" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">1DA3707D660B0E56</xref>
+        <xref offset="0x0000000000000015">1DA3707D660B0E56</xref>
+        <xref offset="0x0000000000000020">0FD630612FE3086D</xref>
+        <xref offset="0x000000000000004F">D78270F303AA6397</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

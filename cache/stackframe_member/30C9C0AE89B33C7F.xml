@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>30C9C0AE89B33C7F</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>B5EB83E9A694FD73</parent_id>
+      <address>3C</address>
+      <userdefinedname>ppOt</userdefinedname>
+      <proto>int **</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

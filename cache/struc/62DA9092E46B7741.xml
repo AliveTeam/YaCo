@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>62DA9092E46B7741</id>
+    <version>
+      <size>0x00000000000000F8</size>
+      <address>166</address>
+      <userdefinedname>Particle</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">339D4271E0648276</xref>
+        <xref offset="0x00000000000000E4">F95D33F94181BAEF</xref>
+        <xref offset="0x00000000000000E8">534077ADD73C7DEC</xref>
+        <xref offset="0x00000000000000EC">9234056B8007741B</xref>
+        <xref offset="0x00000000000000F0">A4A56B756B8448E5</xref>
+        <xref offset="0x00000000000000F4">23BA1A3AF3357546</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

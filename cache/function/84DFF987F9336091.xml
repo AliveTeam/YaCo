@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>84DFF987F9336091</id>
+    <version>
+      <size>0x000000000000006D</size>
+      <parent_id>BE343338ECCF6682</parent_id>
+      <address>4CBE60</address>
+      <proto>void __thiscall sub(Spark *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6AF26A49</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">FAAEFA74F557999A</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000032">39ECDF1E80C2C95D</xref>
+        <xref offset="0x0000000000000032" size="0x000000000000000C">F8ADAB41C6E65536</xref>
+        <xref offset="0x000000000000003E" size="0x0000000000000007">CB68B0ABB31F52DC</xref>
+        <xref offset="0x0000000000000045" size="0x0000000000000009">AAD51288C4D9F823</xref>
+        <xref offset="0x000000000000004E" size="0x000000000000001F">551AF8BB57D052AB</xref>
+        <xref offset="0x0000000000075E70" size="0x0000000000000008">7C13B62047634980</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

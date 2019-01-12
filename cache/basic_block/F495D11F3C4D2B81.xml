@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F495D11F3C4D2B81</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>18F973DE5CFEBEBE</parent_id>
+      <address>426BE0</address>
+      <userdefinedname flags="0x00000054">New_Particle_426BE0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">28B44633</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001E" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000023" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000029">3EF3ADFE2F27FA00</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

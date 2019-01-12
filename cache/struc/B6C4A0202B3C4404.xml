@@ -3,7 +3,7 @@
   <struc>
     <id>B6C4A0202B3C4404</id>
     <version>
-      <size>0x0000000000000060</size>
+      <size>0x0000000000000068</size>
       <address>1D5</address>
       <userdefinedname>Spark</userdefinedname>
       <signatures/>
@@ -21,10 +21,16 @@
         <xref offset="0x0000000000000044">509B350CB743E299</xref>
         <xref offset="0x0000000000000048">320AF335C7F11BD7</xref>
         <xref offset="0x000000000000004C">65FD9F95C9A727E9</xref>
+        <xref offset="0x000000000000004E">6FEA60DA9490C747</xref>
         <xref offset="0x0000000000000050">2002F21C94FD8490</xref>
+        <xref offset="0x0000000000000052">5947B584022D08BB</xref>
         <xref offset="0x0000000000000054">528917EA76BCDF12</xref>
         <xref offset="0x0000000000000058">BA5128CB08352AFD</xref>
         <xref offset="0x000000000000005C">114C0F5F8A260C0E</xref>
+        <xref offset="0x000000000000005E">2D9B3BC455E52A5E</xref>
+        <xref offset="0x0000000000000060">FD03D96F64959CA5</xref>
+        <xref offset="0x0000000000000064">4C2C0A1E46907A5E</xref>
+        <xref offset="0x0000000000000066">4C021389E86D002D</xref>
       </xrefs>
     </version>
   </struc>

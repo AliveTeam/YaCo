@@ -6,6 +6,7 @@
       <size>0x0000000000000367</size>
       <parent_id>BE343338ECCF6682</parent_id>
       <address>4CC050</address>
+      <proto>void __thiscall sub(int *this, int **ppOt)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">74BC6896</signature>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>39ECDF1E80C2C95D</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>84DFF987F9336091</parent_id>
+      <address>4CBE60</address>
+      <userdefinedname flags="0x000000D4">Spark::dtor_4CBE60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D6D32F95</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000026" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">43DBD5B289346CBA</xref>
+        <xref offset="0x000000000000001D">78569D87C34E9628</xref>
+        <xref offset="0x0000000000000032">F8ADAB41C6E65536</xref>
+        <xref offset="0x000000000000003E">CB68B0ABB31F52DC</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

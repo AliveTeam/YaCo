@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>37502285D9203E5A</id>
+    <version>
+      <size>0x0000000000000024</size>
+      <parent_id>94363040FA3C5BCE</parent_id>
+      <address>4E6440</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">D1EB48BF</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">rect</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">palData</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001C">DB30F98CB725132C</xref>
+        <xref offset="0x0000000000000024">8435D8D22820F206</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

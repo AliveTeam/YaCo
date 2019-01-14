@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2344E9D0A4069802</id>
+    <version>
+      <size>0x0000000000000034</size>
+      <parent_id>94363040FA3C5BCE</parent_id>
+      <address>4E6240</address>
+      <userdefinedname flags="0x000000D4">Class_548100::vUpdate_4E6240</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0386ED08</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000024" type="nonrepeatable_comment">idToFind</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001C" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">40ECECA1A5AADB21</xref>
+        <xref offset="0x000000000000001C">D8A28DFE547A3378</xref>
+        <xref offset="0x0000000000000025">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000034">628AD79A0C92EB61</xref>
+        <xref offset="0x00000000000002AD">2B3302F00B0EE900</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>1344B9416432AEBA</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>AF0C3AFADCC813EC</parent_id>
+      <address>40</address>
+      <userdefinedname>field_40_pPalData</userdefinedname>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

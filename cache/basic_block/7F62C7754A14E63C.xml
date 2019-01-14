@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7F62C7754A14E63C</id>
+    <version>
+      <size>0x000000000000002B</size>
+      <parent_id>30331A06B5E6E26E</parent_id>
+      <address>4E65E0</address>
+      <userdefinedname flags="0x000000D4">Class_548100::vScreenChanged_4E65E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">A9E2D9A8</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">idToFind</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000005" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000013" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001A" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000000E">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000013">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000001A">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000021">377BC56E764B7E6E</xref>
+        <xref offset="0x000000000000002B">AD43160B69D8A25D</xref>
+        <xref offset="0x0000000000000035">F108FCECEA775808</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

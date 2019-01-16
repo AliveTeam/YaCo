@@ -3,12 +3,11 @@
   <data>
     <id>62B43D9C7111C49C</id>
     <version>
-      <size>0x00000000000000D0</size>
+      <size>0x0000000000000001</size>
       <parent_id>D6A59BE3C711BC9A</parent_id>
       <address>BB30E0</address>
-      <userdefinedname flags="0x000000B4">stru_BB30E0</userdefinedname>
       <proto>Sound_Unknown[2]</proto>
-      <flags>0x60009400</flags>
+      <flags>0x1000</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">43B72BEA09652F2F</xref>

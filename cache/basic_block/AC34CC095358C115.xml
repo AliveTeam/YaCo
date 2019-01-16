@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AC34CC095358C115</id>
+    <version>
+      <size>0x0000000000000053</size>
+      <parent_id>0AEC57C9F32AB0E1</parent_id>
+      <address>4DEB36</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">5B7EE04D</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">addUseCount</comments>
+        <comments offset="0000000000000002" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000016" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000026" type="nonrepeatable_comment">pAnimRes</comments>
+        <comments offset="0000000000000027" type="nonrepeatable_comment">frameTableOffset</comments>
+        <comments offset="000000000000002C" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">sfxIdx</comments>
+        <comments offset="0000000000000035" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000003C" type="nonrepeatable_comment">pAnimRes</comments>
+        <comments offset="000000000000003D" type="nonrepeatable_comment">frameTableOffset</comments>
+        <comments offset="0000000000000042" type="nonrepeatable_comment">this</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">55EC6E058BD2C4B0</xref>
+        <xref offset="0x0000000000000018">21CD5197D3CC5C41</xref>
+        <xref offset="0x000000000000002E">0BFD750E6B1E786D</xref>
+        <xref offset="0x0000000000000037">4678E5B365A47EF8</xref>
+        <xref offset="0x0000000000000045">0BFD750E6B1E786D</xref>
+        <xref offset="0x0000000000000053">3115664D7C61F804</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

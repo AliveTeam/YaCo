@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>2B5C616A1E4CF953</id>
+    <version>
+      <size>0x00000000000001CE</size>
+      <address>188</address>
+      <userdefinedname>UXB</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">A95BE9FE22A6126C</xref>
+        <xref offset="0x0000000000000116">D4612FAD68B21621</xref>
+        <xref offset="0x0000000000000118">09F849273AFCA255</xref>
+        <xref offset="0x000000000000011A">A781E7BD7AFF6C49</xref>
+        <xref offset="0x000000000000011C">D90783F2C1E1B7B4</xref>
+        <xref offset="0x000000000000011E">5D7680C7233F70D2</xref>
+        <xref offset="0x0000000000000120">F71A8F961C435959</xref>
+        <xref offset="0x0000000000000124">253E3EE6E83162AA</xref>
+        <xref offset="0x0000000000000128">38577724954FAB51</xref>
+        <xref offset="0x00000000000001C0">7619AEF167A9F216</xref>
+        <xref offset="0x00000000000001C2">0B2170998583865D</xref>
+        <xref offset="0x00000000000001C4">CCABA502D97DB12A</xref>
+        <xref offset="0x00000000000001C6">F657EAE1042173BD</xref>
+        <xref offset="0x00000000000001C8">18EEC42F13AACD50</xref>
+        <xref offset="0x00000000000001CC">82B3CF17ADDD0710</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

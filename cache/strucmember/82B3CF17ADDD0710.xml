@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>82B3CF17ADDD0710</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>2B5C616A1E4CF953</parent_id>
+      <address>1CC</address>
+      <userdefinedname>field_1CA</userdefinedname>
+      <proto>__int16</proto>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

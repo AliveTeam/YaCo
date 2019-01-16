@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>43B72BEA09652F2F</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <address>1D9</address>
+      <userdefinedname>Sound_Unknown</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">29F67F199F1EB5AB</xref>
+        <xref offset="0x0000000000000004">3DB24D988F4DD193</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>865BBFF785F563AF</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>9227DEDFECB672BD</parent_id>
+      <address>44</address>
+      <userdefinedname>field_44_cdLoc</userdefinedname>
+      <proto>CdlLOC</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">FBB7072D011132A8</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

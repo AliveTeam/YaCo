@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>62007EC17FF2CAB0</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>9227DEDFECB672BD</parent_id>
+      <address>3C</address>
+      <userdefinedname>field_3C_pLoadingHeader</userdefinedname>
+      <proto>ResourceHeader *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

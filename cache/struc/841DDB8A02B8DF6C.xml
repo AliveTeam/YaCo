@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>841DDB8A02B8DF6C</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>1DB</address>
+      <userdefinedname>Class_547838</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">4F088DF836D589FD</xref>
+        <xref offset="0x0000000000000004">5670FFA8D1F79C01</xref>
+        <xref offset="0x0000000000000006">F071CA50CD2D6154</xref>
+        <xref offset="0x0000000000000008">D3427A0D35655E40</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

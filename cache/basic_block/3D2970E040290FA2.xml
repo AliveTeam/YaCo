@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3D2970E040290FA2</id>
+    <version>
+      <size>0x0000000000000012</size>
+      <parent_id>4D0EBAB0447BE015</parent_id>
+      <address>4CB440</address>
+      <userdefinedname flags="0x00000054">Class_547838_::dtor_4CB440</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">645B993F</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000007" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">C19F95954594F821</xref>
+        <xref offset="0x0000000000000012">3FAB2A2A2E163013</xref>
+        <xref offset="0x000000000000001B">8499505517215C60</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

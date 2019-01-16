@@ -6,7 +6,7 @@
       <size>0x000000000000002D</size>
       <parent_id>BE343338ECCF6682</parent_id>
       <address>4CB440</address>
-      <proto>void __thiscall sub(Class_547838 *this)</proto>
+      <proto>void __thiscall sub(ScopedSeq *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">61312802</signature>

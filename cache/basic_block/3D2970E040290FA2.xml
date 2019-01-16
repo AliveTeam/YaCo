@@ -6,7 +6,7 @@
       <size>0x0000000000000012</size>
       <parent_id>4D0EBAB0447BE015</parent_id>
       <address>4CB440</address>
-      <userdefinedname flags="0x00000054">Class_547838_::dtor_4CB440</userdefinedname>
+      <userdefinedname flags="0x00000054">ScopedSeq::dtor_4CB440</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">645B993F</signature>
       </signatures>

@@ -6,7 +6,7 @@
       <size>0x0000000000000013</size>
       <parent_id>5627F4F4FFAF337A</parent_id>
       <address>4CB210</address>
-      <userdefinedname flags="0x00000054">Class_547838_::ctor_4CB210</userdefinedname>
+      <userdefinedname flags="0x00000054">ScopedSeq::ctor_4CB210</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">06D60331</signature>
       </signatures>

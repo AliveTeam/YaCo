@@ -3,13 +3,16 @@
   <data>
     <id>5682CD5616C44F96</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000054</size>
       <parent_id>D6A59BE3C711BC9A</parent_id>
       <address>BB3078</address>
-      <userdefinedname flags="0x000000B4">dword_BB3078</userdefinedname>
-      <flags>0x20009400</flags>
+      <userdefinedname flags="0x000000B4">stru_BB3078</userdefinedname>
+      <proto>Sound_Unknown</proto>
+      <flags>0x60009400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">43B72BEA09652F2F</xref>
+      </xrefs>
     </version>
   </data>
 </sigfile>

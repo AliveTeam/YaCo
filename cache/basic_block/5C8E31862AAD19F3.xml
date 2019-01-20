@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5C8E31862AAD19F3</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <parent_id>872C078CC38D494F</parent_id>
+      <address>4216C1</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">8E60B2E0</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">tlvInfo</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">pTlv</comments>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">this</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">C66D3E5985F342B8</xref>
+        <xref offset="0x0000000000000012">76EEEBB8090B480B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

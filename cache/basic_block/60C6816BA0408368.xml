@@ -11,6 +11,8 @@
         <signature algo="crc32" method="invariants">12C5C408</signature>
       </signatures>
       <offsets>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000024" type="nonrepeatable_comment">tlvOffset_levelId_PathId</comments>
         <comments offset="000000000000002A" type="nonrepeatable_comment">a4</comments>
         <comments offset="000000000000002C" type="nonrepeatable_comment">addUseCount</comments>
         <comments offset="000000000000002E" type="nonrepeatable_comment">resourceID</comments>

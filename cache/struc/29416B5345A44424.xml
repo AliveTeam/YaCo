@@ -3,13 +3,18 @@
   <struc>
     <id>29416B5345A44424</id>
     <version>
-      <size>0x0000000000000005</size>
+      <size>0x0000000000000014</size>
       <address>1DD</address>
       <userdefinedname>Grinder_State</userdefinedname>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">B6381CF30DF1940C</xref>
+        <xref offset="0x0000000000000002">B14B16C99BB5FE05</xref>
         <xref offset="0x0000000000000004">6010995E1BAB47E7</xref>
+        <xref offset="0x0000000000000008">EACC64E1C17F379B</xref>
+        <xref offset="0x000000000000000C">864F04C02F647920</xref>
+        <xref offset="0x0000000000000010">A7B314E64CDCD2F2</xref>
+        <xref offset="0x0000000000000012">8B0F0BB068096760</xref>
       </xrefs>
     </version>
   </struc>

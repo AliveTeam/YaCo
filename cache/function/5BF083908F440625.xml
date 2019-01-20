@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>5BF083908F440625</id>
+    <version>
+      <size>0x00000000000000D2</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4DF850</address>
+      <proto>signed __int16 __thiscall sub(UXB *this, BaseAliveGameObject *pFrom)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B95261FC</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">AB06C952C77542F8</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000024">B249F3EACFB1D77D</xref>
+        <xref offset="0x0000000000000024" size="0x0000000000000014">218C5630E11424E4</xref>
+        <xref offset="0x0000000000000038" size="0x000000000000000F">AAA741ACAABAB4CA</xref>
+        <xref offset="0x0000000000000047" size="0x000000000000000A">983CA0DF77DE3049</xref>
+        <xref offset="0x0000000000000051" size="0x0000000000000023">A92AB3CACD4F5093</xref>
+        <xref offset="0x0000000000000074" size="0x000000000000001E">6D4F475CD21FFFFC</xref>
+        <xref offset="0x0000000000000092" size="0x000000000000002B">BA1CF7A04BDE41FB</xref>
+        <xref offset="0x00000000000000BD" size="0x0000000000000015">47EC5E2A8B6EDDC5</xref>
+        <xref offset="0x0000000000062AB0" size="0x000000000000000B">F51B6555DB4463F1</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

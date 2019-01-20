@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DDBAEB8686339952</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>589BC49D76113696</parent_id>
+      <address>453DC0</address>
+      <userdefinedname flags="0x000000D4">Abe::State_StandToCrouch_453DC0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BAC47249</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000009">8AC0BD8F785E3EAE</xref>
+        <xref offset="0x0000000000000038">E9BA8BB05FE30B95</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

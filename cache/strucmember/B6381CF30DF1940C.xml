@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>FBCA8CDFFCFE6919</id>
+    <id>B6381CF30DF1940C</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>235DAAF0FAD4AF76</parent_id>
-      <address>160</address>
-      <userdefinedname>field_160_slapable_or_pick_item_id</userdefinedname>
+      <parent_id>29416B5345A44424</parent_id>
+      <userdefinedname>field_0</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

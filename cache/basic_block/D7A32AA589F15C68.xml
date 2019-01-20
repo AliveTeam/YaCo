@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D7A32AA589F15C68</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>008631F529B15573</parent_id>
+      <address>4DF540</address>
+      <userdefinedname flags="0x00000054">Uxb::vOnPickUpOrSlapped_4DF540</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B4105E5F</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000014">71FBA80C792C25A6</xref>
+        <xref offset="0x00000000000000BA">0242FBBC8FB4499E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

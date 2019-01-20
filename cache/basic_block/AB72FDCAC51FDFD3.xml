@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AB72FDCAC51FDFD3</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>BA8E097A9BF2837B</parent_id>
+      <address>408180</address>
+      <userdefinedname flags="0x00000054">BaseAnimatedWithPhysicsGameObject::vOnPickUpOrSlapped_408180</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EB8C5B28</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>70C783371FCE9947</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>ECF721A825111598</parent_id>
+      <address>28</address>
+      <userdefinedname>bStandToCrouch</userdefinedname>
+      <proto>int</proto>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

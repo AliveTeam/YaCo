@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B249F3EACFB1D77D</id>
+    <version>
+      <size>0x0000000000000024</size>
+      <parent_id>5BF083908F440625</parent_id>
+      <address>4DF850</address>
+      <userdefinedname flags="0x00000054">Uxb::vTakeDamage_4DF850</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3BB3BCE6</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">206202C6F6F407A5</xref>
+        <xref offset="0x0000000000000024">218C5630E11424E4</xref>
+        <xref offset="0x00000000000000BD">47EC5E2A8B6EDDC5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

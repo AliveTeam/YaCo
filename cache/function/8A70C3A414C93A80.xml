@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>8A70C3A414C93A80</id>
+    <version>
+      <size>0x000000000000007F</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4DF7B0</address>
+      <proto>void __thiscall sub(UXB *this, int a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">E808A12E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">60B0AD7001CC4451</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000036">2FCC9FD5F3FD2365</xref>
+        <xref offset="0x0000000000000036" size="0x000000000000001E">671E25BB8C28BCE9</xref>
+        <xref offset="0x0000000000000054" size="0x000000000000002B">76E4CC4DD3EAF8EE</xref>
+        <xref offset="0x0000000000062B30" size="0x000000000000000B">6AC6FB8AAF7DE68C</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

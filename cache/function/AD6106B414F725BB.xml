@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>AD6106B414F725BB</id>
+    <version>
+      <size>0x000000000000004A</size>
+      <parent_id>6AC3B5E1C82E804B</parent_id>
+      <address>455B60</address>
+      <proto>void __thiscall sub(Abe *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">E81F6B66</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">04D1E01D15D3901A</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000024">854DC6DB4CAB2FFD</xref>
+        <xref offset="0x0000000000000024" size="0x0000000000000004">F5DA2A3D22568FE5</xref>
+        <xref offset="0x0000000000000028" size="0x0000000000000011">27BA0C79B99AAE36</xref>
+        <xref offset="0x0000000000000039" size="0x0000000000000006">A8BC4A0D9C98660B</xref>
+        <xref offset="0x000000000000003F" size="0x0000000000000009">40F5F5AB7663159E</xref>
+        <xref offset="0x0000000000000048" size="0x0000000000000002">E9E3E390482332DC</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -6,7 +6,7 @@
       <size>0x0000000000000397</size>
       <parent_id>B7AD2001E52C57D7</parent_id>
       <address>4206D0</address>
-      <proto>__int16 __thiscall sub(Grinder *this)</proto>
+      <proto>void __thiscall sub(Grinder *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">66E933DE</signature>

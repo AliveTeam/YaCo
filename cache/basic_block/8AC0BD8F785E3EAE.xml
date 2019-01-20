@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8AC0BD8F785E3EAE</id>
+    <version>
+      <size>0x000000000000002F</size>
+      <parent_id>589BC49D76113696</parent_id>
+      <address>453DC9</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">A0309684</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000006" type="nonrepeatable_comment">bStandToCrouch</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">fpY</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">fpX</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000021">96E34D3B8EA22D72</xref>
+        <xref offset="0x000000000000002F">E9BA8BB05FE30B95</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

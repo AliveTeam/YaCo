@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2FCC9FD5F3FD2365</id>
+    <version>
+      <size>0x0000000000000036</size>
+      <parent_id>8A70C3A414C93A80</parent_id>
+      <address>4DF7B0</address>
+      <userdefinedname flags="0x00000054">Uxb::vsub_4DF7B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">53DE525C</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">size_t</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000026" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002C" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">22D8468505411BFB</xref>
+        <xref offset="0x000000000000001E">BE47CD8DE2DD5C02</xref>
+        <xref offset="0x0000000000000036">671E25BB8C28BCE9</xref>
+        <xref offset="0x0000000000000054">76E4CC4DD3EAF8EE</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

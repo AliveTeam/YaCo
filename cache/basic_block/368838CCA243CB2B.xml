@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>368838CCA243CB2B</id>
+    <version>
+      <size>0x000000000000002F</size>
+      <parent_id>DCB61B4CA5D16083</parent_id>
+      <address>4AFDD2</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">91BB6176</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">scale</comments>
+        <comments offset="0000000000000006" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">volume</comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">sfxIdx</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">scale</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">volume</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">sfxIdx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">D26DC8293D1259BC</xref>
+        <xref offset="0x0000000000000020">D26DC8293D1259BC</xref>
+        <xref offset="0x000000000000002F">FDE64F091596E265</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

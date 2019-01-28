@@ -6,7 +6,7 @@
       <size>0x0000000000000032</size>
       <parent_id>CFC8940639E0D6AE</parent_id>
       <address>4B0530</address>
-      <userdefinedname flags="0x00000054">SlamDoor::sub_4B0530</userdefinedname>
+      <userdefinedname flags="0x00000054">SlamDoor::ClearInsideSlamDoor_4B0530</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">8C482FF2</signature>
       </signatures>

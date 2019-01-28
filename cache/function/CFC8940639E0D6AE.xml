@@ -6,7 +6,7 @@
       <size>0x00000000000000BE</size>
       <parent_id>58A1898A5BF9FAD9</parent_id>
       <address>4B0530</address>
-      <proto>void __thiscall sub(SlamDoor *this, BaseAnimatedWithPhysicsGameObject *pObj, __int16 objXPos, __int16 objWidth)</proto>
+      <proto>void __thiscall sub(SlamDoor *this, BaseAnimatedWithPhysicsGameObject *pObj, __int16 a3, __int16 a4)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">4CF2D5D8</signature>
